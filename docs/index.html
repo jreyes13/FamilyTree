@@ -577,6 +577,191 @@
     }
     .focus-btn:hover { background: var(--accent-hover); }
 
+    /* Calendar View Styles */
+    .calendar-container {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .calendar-toolbar {
+      background: #f8fafc;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 16px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .cal-controls-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .cal-filter-group {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    .cal-toggle-pill {
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border-color);
+      background: #ffffff;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #64748b;
+      user-select: none;
+      transition: all 0.2s ease;
+    }
+    .cal-toggle-pill:hover {
+      background: #f1f5f9;
+    }
+    .cal-toggle-pill.active.birth {
+      background: #eff6ff;
+      border-color: #3b82f6;
+      color: #1d4ed8;
+      box-shadow: 0 1px 3px rgba(59,130,246,0.15);
+    }
+    .cal-toggle-pill.active.death {
+      background: #fdf4ff;
+      border-color: #a855f7;
+      color: #7e22ce;
+      box-shadow: 0 1px 3px rgba(168,85,247,0.15);
+    }
+    .month-pills-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .month-pill {
+      padding: 5px 11px;
+      border-radius: 6px;
+      border: 1px solid var(--border-color);
+      background: #ffffff;
+      cursor: pointer;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #475569;
+      transition: all 0.15s;
+    }
+    .month-pill:hover {
+      background: #f1f5f9;
+      color: #0f172a;
+    }
+    .month-pill.active {
+      background: var(--accent);
+      color: #ffffff;
+      border-color: var(--accent);
+    }
+
+    .calendar-month-section {
+      background: #ffffff;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 18px 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    }
+    .cal-month-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid #f1f5f9;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+    }
+    .cal-month-title {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: #1e293b;
+    }
+    .cal-month-count {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+    .cal-events-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .cal-event-card {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: 1px solid #f1f5f9;
+      background: #f8fafc;
+      transition: all 0.15s ease;
+      cursor: pointer;
+    }
+    .cal-event-card:hover {
+      background: #ffffff;
+      border-color: #cbd5e1;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+      transform: translateX(4px);
+    }
+    .cal-day-badge {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      border-radius: 8px;
+      background: #ffffff;
+      border: 1.5px solid var(--border-color);
+      font-weight: 800;
+      font-size: 1.15rem;
+      color: #1e293b;
+      flex-shrink: 0;
+    }
+    .cal-day-badge.birth {
+      border-color: #93c5fd;
+      color: #1d4ed8;
+      background: #f0f7ff;
+    }
+    .cal-day-badge.death {
+      border-color: #d8b4fe;
+      color: #7e22ce;
+      background: #faf5ff;
+    }
+    .cal-event-body {
+      flex: 1;
+    }
+    .cal-event-name {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: #0f172a;
+    }
+    .cal-event-desc {
+      font-size: 0.78rem;
+      color: #64748b;
+      margin-top: 2px;
+    }
+    .cal-event-years {
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 10px;
+    }
+    .cal-event-years.birth {
+      background: #e0f2fe;
+      color: #0369a1;
+    }
+    .cal-event-years.death {
+      background: #f3e8ff;
+      color: #6b21a8;
+    }
+
     /* Responsive */
     @media (max-width: 768px) {
       header { padding: 8px 12px; }
@@ -628,6 +813,7 @@
     <div class="view-toggles">
       <button class="view-btn active" id="viewBtnTree" onclick="switchMainView('tree')">Árbol</button>
       <button class="view-btn" id="viewBtnDirectory" onclick="switchMainView('directory')">Directorio</button>
+      <button class="view-btn" id="viewBtnCalendar" onclick="switchMainView('calendar')">📅 Calendario</button>
       <button class="view-btn" id="viewBtnStats" onclick="switchMainView('stats')">Estadísticas</button>
     </div>
   </header>
@@ -694,6 +880,54 @@
             <div id="topPlacesBox"></div>
           </div>
         </div>
+      </div>
+    </div>
+
+    <!-- Calendar Panel -->
+    <div class="full-view-panel" id="calendarPanel">
+      <div class="calendar-container">
+        <div>
+          <h2 id="calTitle">📅 Calendario Familiar y Fechas Clave</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;" id="calSubtitle">Cumpleaños, aniversarios de boda y conmemoraciones de defunción</p>
+        </div>
+
+        <div class="calendar-toolbar">
+          <div class="cal-controls-row">
+            <div class="cal-filter-group">
+              <span style="font-size: 0.85rem; font-weight: 700; color: #475569;">Mostrar:</span>
+              <div class="cal-toggle-pill active birth" id="toggleCalBirth" onclick="toggleCalEventFilter('birth')">
+                <span>🎂 Cumpleaños</span>
+              </div>
+              <div class="cal-toggle-pill active death" id="toggleCalDeath" onclick="toggleCalEventFilter('death')">
+                <span>🕊️ Aniversarios Defunción</span>
+              </div>
+            </div>
+            <div style="font-size: 0.82rem; font-weight: 700; color: var(--text-muted);" id="calEventsTotalBadge">
+              0 eventos
+            </div>
+          </div>
+
+          <!-- Month filter selector -->
+          <div class="month-pills-row" id="calMonthPills">
+            <button class="month-pill active" onclick="filterCalMonth(0)">Todos los meses</button>
+            <button class="month-pill" onclick="filterCalMonth(1)">Ene</button>
+            <button class="month-pill" onclick="filterCalMonth(2)">Feb</button>
+            <button class="month-pill" onclick="filterCalMonth(3)">Mar</button>
+            <button class="month-pill" onclick="filterCalMonth(4)">Abr</button>
+            <button class="month-pill" onclick="filterCalMonth(5)">May</button>
+            <button class="month-pill" onclick="filterCalMonth(6)">Jun</button>
+            <button class="month-pill" onclick="filterCalMonth(7)">Jul</button>
+            <button class="month-pill" onclick="filterCalMonth(8)">Ago</button>
+            <button class="month-pill" onclick="filterCalMonth(9)">Sep</button>
+            <button class="month-pill" onclick="filterCalMonth(10)">Oct</button>
+            <button class="month-pill" onclick="filterCalMonth(11)">Nov</button>
+            <button class="month-pill" onclick="filterCalMonth(12)">Dic</button>
+          </div>
+        </div>
+
+        <!-- Events List by Month -->
+        <div id="calendarEventsContainer" style="display: flex; flex-direction: column; gap: 16px;"></div>
+
       </div>
     </div>
 
@@ -788,6 +1022,11 @@
     let focusPersonId = null;
     let selectedPersonId = null;
 
+    // Calendar state
+    let calShowBirths = true;
+    let calShowDeaths = true;
+    let calSelectedMonth = 0; // 0 = Todos
+
     // Viewport transform
     let scale = 1.0;
     let panX = 0;
@@ -869,6 +1108,7 @@
       // Build views
       renderTreeGraph();
       renderDirectory();
+      renderCalendar();
       renderStats();
       openPersonDrawer(focusPersonId);
       resetZoom();
@@ -1251,15 +1491,212 @@
     }
 
     /* ----------------------------------------------------
+       Calendar View
+       ---------------------------------------------------- */
+    const MONTH_NAMES = [
+      "", "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
+      "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
+    ];
+
+    const MONTH_MAP = {
+      'jan': 1, 'ene': 1, 'enero': 1,
+      'feb': 2, 'febrero': 2,
+      'mar': 3, 'marzo': 3,
+      'apr': 4, 'abr': 4, 'abril': 4,
+      'may': 5, 'mayo': 5,
+      'jun': 6, 'junio': 6,
+      'jul': 7, 'julio': 7,
+      'aug': 8, 'ago': 8, 'agosto': 8,
+      'sep': 9, 'sept': 9, 'set': 9, 'septiembre': 9,
+      'oct': 10, 'octubre': 10,
+      'nov': 11, 'noviembre': 11,
+      'dec': 12, 'dic': 12, 'diciembre': 12
+    };
+
+    function parseDayMonth(dateStr) {
+      if (!dateStr) return null;
+      const m = dateStr.match(/(\b\d{1,2}\b)\s+([a-zA-ZáéíóúÁÉÍÓÚ]{3,})\b/);
+      if (m) {
+        const day = parseInt(m[1], 10);
+        const monKey = m[2].toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').slice(0, 3);
+        const mon = MONTH_MAP[monKey];
+        if (mon && day >= 1 && day <= 31) {
+          return { day, month: mon };
+        }
+      }
+      return null;
+    }
+
+    function renderCalendar() {
+      if (!currentTreeData) return;
+      const container = document.getElementById('calendarEventsContainer');
+      container.innerHTML = '';
+
+      document.getElementById('calTitle').textContent = `📅 Calendario Familiar: ${currentTreeData.title}`;
+
+      // Extract all dated events
+      const allEvents = [];
+      const currentYear = 2026;
+
+      Object.values(currentTreeData.individuals).forEach(p => {
+        // Birth event
+        if (p.birth && p.birth.date) {
+          const dm = parseDayMonth(p.birth.date);
+          if (dm) {
+            const yr = extractYear(p.birth.date);
+            allEvents.push({
+              type: 'birth',
+              personId: p.id,
+              name: p.name,
+              sex: p.sex,
+              day: dm.day,
+              month: dm.month,
+              year: yr,
+              rawDate: p.birth.date,
+              place: p.birth.place || ''
+            });
+          }
+        }
+        // Death event
+        if (p.death && p.death.date) {
+          const dm = parseDayMonth(p.death.date);
+          if (dm) {
+            const yr = extractYear(p.death.date);
+            allEvents.push({
+              type: 'death',
+              personId: p.id,
+              name: p.name,
+              sex: p.sex,
+              day: dm.day,
+              month: dm.month,
+              year: yr,
+              rawDate: p.death.date,
+              place: p.death.place || ''
+            });
+          }
+        }
+      });
+
+      // Filter events by type and month
+      const filteredEvents = allEvents.filter(e => {
+        if (e.type === 'birth' && !calShowBirths) return false;
+        if (e.type === 'death' && !calShowDeaths) return false;
+        if (calSelectedMonth > 0 && e.month !== calSelectedMonth) return false;
+        return true;
+      });
+
+      document.getElementById('calEventsTotalBadge').textContent = `${filteredEvents.length} fecha(s) registrada(s)`;
+
+      if (filteredEvents.length === 0) {
+        container.innerHTML = `
+          <div style="background:#ffffff; border:1px solid var(--border-color); border-radius:12px; padding:32px; text-align:center; color:#64748b;">
+            <div style="font-size: 2rem; margin-bottom: 8px;">🔍</div>
+            <div style="font-weight:700;">No hay fechas registradas con los filtros seleccionados.</div>
+            <div style="font-size:0.85rem; margin-top:4px;">Prueba a activar tanto cumpleaños como defunciones o a seleccionar "Todos los meses".</div>
+          </div>
+        `;
+        return;
+      }
+
+      // Group by Month (1 to 12)
+      const monthsToDisplay = calSelectedMonth > 0 ? [calSelectedMonth] : Array.from({length: 12}, (_, i) => i + 1);
+
+      monthsToDisplay.forEach(mNum => {
+        const mEvents = filteredEvents.filter(e => e.month === mNum);
+        if (mEvents.length === 0) return;
+
+        // Sort by day ascending
+        mEvents.sort((a, b) => a.day - b.day || (a.year || 0) - (b.year || 0));
+
+        const section = document.createElement('div');
+        section.className = 'calendar-month-section';
+
+        const monthHeader = document.createElement('div');
+        monthHeader.className = 'cal-month-header';
+        monthHeader.innerHTML = `
+          <span class="cal-month-title">${MONTH_NAMES[mNum]}</span>
+          <span class="cal-month-count">${mEvents.length} evento(s)</span>
+        `;
+        section.appendChild(monthHeader);
+
+        const list = document.createElement('div');
+        list.className = 'cal-events-list';
+
+        mEvents.forEach(e => {
+          const card = document.createElement('div');
+          card.className = 'cal-event-card';
+          card.onclick = () => {
+            setFocusPerson(e.personId);
+            switchMainView('tree');
+          };
+
+          const isBirth = e.type === 'birth';
+          const badgeClass = isBirth ? 'birth' : 'death';
+          const icon = isBirth ? '🎂' : '🕊️';
+          const labelType = isBirth ? 'Cumpleaños' : 'Aniversario de defunción';
+
+          let anniversaryStr = '';
+          if (e.year) {
+            const diff = currentYear - parseInt(e.year, 10);
+            if (diff >= 0) {
+              anniversaryStr = `<span class="cal-event-years ${badgeClass}">${diff}º aniversario</span>`;
+            }
+          }
+
+          card.innerHTML = `
+            <div class="cal-day-badge ${badgeClass}">
+              <span>${e.day}</span>
+            </div>
+            <div class="cal-event-body">
+              <div style="display:flex; justify-content:space-between; align-items:center;">
+                <span class="cal-event-name">${e.name}</span>
+                ${anniversaryStr}
+              </div>
+              <div class="cal-event-desc">
+                ${icon} <strong>${labelType}:</strong> ${e.rawDate} ${e.place ? `· 📍 ${truncateText(e.place, 30)}` : ''}
+              </div>
+            </div>
+          `;
+          list.appendChild(card);
+        });
+
+        section.appendChild(list);
+        container.appendChild(section);
+      });
+    }
+
+    function toggleCalEventFilter(type) {
+      if (type === 'birth') {
+        calShowBirths = !calShowBirths;
+        document.getElementById('toggleCalBirth').classList.toggle('active', calShowBirths);
+      } else if (type === 'death') {
+        calShowDeaths = !calShowDeaths;
+        document.getElementById('toggleCalDeath').classList.toggle('active', calShowDeaths);
+      }
+      renderCalendar();
+    }
+
+    function filterCalMonth(mon) {
+      calSelectedMonth = mon;
+      const pills = document.querySelectorAll('#calMonthPills .month-pill');
+      pills.forEach((p, idx) => {
+        p.classList.toggle('active', idx === mon);
+      });
+      renderCalendar();
+    }
+
+    /* ----------------------------------------------------
        Main View Switcher
        ---------------------------------------------------- */
     function switchMainView(view) {
       document.getElementById('viewBtnTree').classList.toggle('active', view === 'tree');
       document.getElementById('viewBtnDirectory').classList.toggle('active', view === 'directory');
+      document.getElementById('viewBtnCalendar').classList.toggle('active', view === 'calendar');
       document.getElementById('viewBtnStats').classList.toggle('active', view === 'stats');
 
       document.getElementById('treeContainer').style.display = view === 'tree' ? 'block' : 'none';
       document.getElementById('directoryPanel').classList.toggle('active', view === 'directory');
+      document.getElementById('calendarPanel').classList.toggle('active', view === 'calendar');
       document.getElementById('statsPanel').classList.toggle('active', view === 'stats');
     }
 

@@ -743,9 +743,7 @@
         "F7"
       ],
       "famc": "F106",
-      "photos": [
-        "pics/aguado/Luis_REYES.jpg"
-      ],
+      "photos": [],
       "parents": [
         "I320",
         "I321"
@@ -836,7 +834,9 @@
       "notes": [],
       "fams": [],
       "famc": "F7",
-      "photos": [],
+      "photos": [
+        "pics/aguado/Luis_REYES.jpg"
+      ],
       "parents": [
         "I18",
         "I19"

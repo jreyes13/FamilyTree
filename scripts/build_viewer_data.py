@@ -22,7 +22,7 @@ PICS_DEST_DIR = os.path.join(DOCS_DIR, 'pics', 'aguado')
 
 PHOTO_MAPPINGS = {
     'I3': ['pics/aguado/Carmelo_REYES_A.jpg', 'pics/aguado/Carmelo_REYES_B.jpg'],
-    'I18': ['pics/aguado/Luis_REYES.jpg'],
+    'I20': ['pics/aguado/Luis_REYES.jpg'],
     'I19': [
         'pics/aguado/Encarna_AGUADO_A.jpg',
         'pics/aguado/Encarna_AGUADO_B.jpg',
