@@ -42,6 +42,40 @@
         1
       ]
     ],
+    "topGivenNames": [
+      [
+        "María",
+        9
+      ],
+      [
+        "Francisco",
+        5
+      ],
+      [
+        "Manuel",
+        5
+      ],
+      [
+        "Catalina",
+        4
+      ],
+      [
+        "Juan",
+        3
+      ],
+      [
+        "Agustín",
+        3
+      ],
+      [
+        "Valentín",
+        2
+      ],
+      [
+        "Isabel",
+        2
+      ]
+    ],
     "topPlaces": [
       [
         "Covarrubias, Burgos (SPAIN)",
@@ -75,7 +109,95 @@
         "La Sequera, Burgos (SPAIN)",
         2
       ]
-    ]
+    ],
+    "birthMonths": [
+      {
+        "month": 1,
+        "count": 2
+      },
+      {
+        "month": 2,
+        "count": 4
+      },
+      {
+        "month": 3,
+        "count": 8
+      },
+      {
+        "month": 4,
+        "count": 2
+      },
+      {
+        "month": 5,
+        "count": 2
+      },
+      {
+        "month": 6,
+        "count": 6
+      },
+      {
+        "month": 7,
+        "count": 4
+      },
+      {
+        "month": 8,
+        "count": 2
+      },
+      {
+        "month": 9,
+        "count": 5
+      },
+      {
+        "month": 10,
+        "count": 2
+      },
+      {
+        "month": 11,
+        "count": 4
+      },
+      {
+        "month": 12,
+        "count": 4
+      }
+    ],
+    "birthCenturies": [
+      [
+        "Siglo XVIII",
+        35
+      ],
+      [
+        "Siglo XIX",
+        19
+      ],
+      [
+        "Siglo XVII",
+        7
+      ],
+      [
+        "Siglo XX",
+        2
+      ]
+    ],
+    "lifespan": {
+      "men": {
+        "count": 9,
+        "avg": 69.2,
+        "maxAge": 88,
+        "maxPerson": "Eusebio GUIJARRO ARROYO (88 años, 1883–1971)"
+      },
+      "women": {
+        "count": 6,
+        "avg": 69.5,
+        "maxAge": 87,
+        "maxPerson": "Eugenia Anastasia ARROYO ZUÑIGA (87 años, 1877–1964)"
+      },
+      "overall": {
+        "count": 15,
+        "avg": 69.3,
+        "maxAge": 88,
+        "maxPerson": "Eusebio GUIJARRO ARROYO (88 años, 1883–1971)"
+      }
+    }
   },
   "individuals": {
     "I1": {

@@ -813,7 +813,7 @@
     <div class="view-toggles">
       <button class="view-btn active" id="viewBtnTree" onclick="switchMainView('tree')">Árbol</button>
       <button class="view-btn" id="viewBtnDirectory" onclick="switchMainView('directory')">Directorio</button>
-      <button class="view-btn" id="viewBtnCalendar" onclick="switchMainView('calendar')">📅 Calendario</button>
+      <button class="view-btn" id="viewBtnCalendar" onclick="switchMainView('calendar')">Calendario</button>
       <button class="view-btn" id="viewBtnStats" onclick="switchMainView('stats')">Estadísticas</button>
     </div>
   </header>
@@ -870,15 +870,57 @@
           </div>
         </div>
 
+        <!-- Life Expectancy / Longevity Section -->
+        <div style="background: #ffffff; border: 1px solid var(--border-color); border-radius: 12px; padding: 20px;">
+          <h3 style="font-size: 1.05rem; margin-bottom: 6px;">Esperanza de Vida y Longevidad Media</h3>
+          <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 16px;">Calculada con antepasados con fechas de nacimiento y defunción registradas.</p>
+          <div class="stat-cards-row" style="margin-bottom: 6px;">
+            <div class="stat-hero-card" style="border-top: 4px solid #3b82f6;">
+              <div class="stat-number" id="statLifeMen" style="color: #2563eb;">--</div>
+              <div class="stat-label">Media Hombres</div>
+              <div style="font-size: 0.73rem; color: #64748b; margin-top: 6px;" id="statMaxMen">--</div>
+            </div>
+            <div class="stat-hero-card" style="border-top: 4px solid #ec4899;">
+              <div class="stat-number" id="statLifeWomen" style="color: #db2777;">--</div>
+              <div class="stat-label">Media Mujeres</div>
+              <div style="font-size: 0.73rem; color: #64748b; margin-top: 6px;" id="statMaxWomen">--</div>
+            </div>
+            <div class="stat-hero-card" style="border-top: 4px solid #10b981;">
+              <div class="stat-number" id="statLifeOverall" style="color: #059669;">--</div>
+              <div class="stat-label">Media Global</div>
+              <div style="font-size: 0.73rem; color: #64748b; margin-top: 6px;" id="statMaxOverall">--</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Row 2: Nombres de Pila & Apellidos -->
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+          <div class="stats-table-box">
+            <h3 style="font-size: 1rem; margin-bottom: 14px;">Nombres de Pila más Frecuentes</h3>
+            <div id="topGivenNamesBox"></div>
+          </div>
           <div class="stats-table-box">
             <h3 style="font-size: 1rem; margin-bottom: 14px;">Apellidos más Frecuentes</h3>
             <div id="topSurnamesBox"></div>
           </div>
+        </div>
+
+        <!-- Row 3: Meses de Nacimiento & Fechas / Siglos -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
           <div class="stats-table-box">
-            <h3 style="font-size: 1rem; margin-bottom: 14px;">Lugares con Mayor Presencia</h3>
-            <div id="topPlacesBox"></div>
+            <h3 style="font-size: 1rem; margin-bottom: 14px;">Meses de Nacimiento</h3>
+            <div id="birthMonthsBox"></div>
           </div>
+          <div class="stats-table-box">
+            <h3 style="font-size: 1rem; margin-bottom: 14px;">Épocas y Siglos de Nacimiento</h3>
+            <div id="birthCenturiesBox"></div>
+          </div>
+        </div>
+
+        <!-- Row 4: Lugares -->
+        <div class="stats-table-box">
+          <h3 style="font-size: 1rem; margin-bottom: 14px;">Lugares con Mayor Presencia</h3>
+          <div id="topPlacesBox"></div>
         </div>
       </div>
     </div>
@@ -887,7 +929,7 @@
     <div class="full-view-panel" id="calendarPanel">
       <div class="calendar-container">
         <div>
-          <h2 id="calTitle">📅 Calendario Familiar y Fechas Clave</h2>
+          <h2 id="calTitle">Calendario Familiar y Fechas Clave</h2>
           <p style="color: var(--text-muted); font-size: 0.9rem;" id="calSubtitle">Cumpleaños, aniversarios de boda y conmemoraciones de defunción</p>
         </div>
 
@@ -1457,11 +1499,41 @@
       document.getElementById('statFams').textContent = currentTreeData.familiesCount;
       document.getElementById('statSpan').textContent = `${stats.minYear || '?'} – ${stats.maxYear || '2026'}`;
 
+      // Life Expectancy & Longevity
+      if (stats.lifespan) {
+        document.getElementById('statLifeMen').textContent = stats.lifespan.men.count > 0 ? `${stats.lifespan.men.avg} años` : '--';
+        document.getElementById('statMaxMen').textContent = stats.lifespan.men.maxPerson ? `Récord: ${stats.lifespan.men.maxPerson}` : 'Sin datos suficientes';
+
+        document.getElementById('statLifeWomen').textContent = stats.lifespan.women.count > 0 ? `${stats.lifespan.women.avg} años` : '--';
+        document.getElementById('statMaxWomen').textContent = stats.lifespan.women.maxPerson ? `Récord: ${stats.lifespan.women.maxPerson}` : 'Sin datos suficientes';
+
+        document.getElementById('statLifeOverall').textContent = stats.lifespan.overall.count > 0 ? `${stats.lifespan.overall.avg} años` : '--';
+        document.getElementById('statMaxOverall').textContent = `${stats.lifespan.overall.count} antepasados analizados`;
+      }
+
+      // Top Given Names
+      const givenBox = document.getElementById('topGivenNamesBox');
+      givenBox.innerHTML = '';
+      if (stats.topGivenNames && stats.topGivenNames.length > 0) {
+        const maxGivenCount = stats.topGivenNames[0][1];
+        stats.topGivenNames.forEach(([name, count]) => {
+          const pct = Math.round((count / maxGivenCount) * 100);
+          const row = document.createElement('div');
+          row.className = 'bar-row';
+          row.innerHTML = `
+            <span class="bar-label" title="${name}">${name}</span>
+            <div class="bar-outer"><div class="bar-fill" style="width: ${pct}%; background:#3b82f6;"></div></div>
+            <span class="bar-count">${count}</span>
+          `;
+          givenBox.appendChild(row);
+        });
+      }
+
       // Top Surnames
       const surBox = document.getElementById('topSurnamesBox');
       surBox.innerHTML = '';
-      const maxSurCount = stats.topSurnames.length > 0 ? stats.topSurnames[0][1] : 1;
-      stats.topSurnames.forEach(([sur, count]) => {
+      const maxSurCount = stats.topSurnames && stats.topSurnames.length > 0 ? stats.topSurnames[0][1] : 1;
+      (stats.topSurnames || []).forEach(([sur, count]) => {
         const pct = Math.round((count / maxSurCount) * 100);
         const row = document.createElement('div');
         row.className = 'bar-row';
@@ -1473,11 +1545,48 @@
         surBox.appendChild(row);
       });
 
+      // Birth Months
+      const bMonthBox = document.getElementById('birthMonthsBox');
+      bMonthBox.innerHTML = '';
+      if (stats.birthMonths && stats.birthMonths.length > 0) {
+        const maxMonthCount = Math.max(...stats.birthMonths.map(m => m.count), 1);
+        stats.birthMonths.forEach(item => {
+          const mName = MONTH_NAMES[item.month] || `Mes ${item.month}`;
+          const pct = Math.round((item.count / maxMonthCount) * 100);
+          const row = document.createElement('div');
+          row.className = 'bar-row';
+          row.innerHTML = `
+            <span class="bar-label" title="${mName}">${mName}</span>
+            <div class="bar-outer"><div class="bar-fill" style="width: ${pct}%; background:#f59e0b;"></div></div>
+            <span class="bar-count">${item.count}</span>
+          `;
+          bMonthBox.appendChild(row);
+        });
+      }
+
+      // Birth Centuries
+      const centBox = document.getElementById('birthCenturiesBox');
+      centBox.innerHTML = '';
+      if (stats.birthCenturies && stats.birthCenturies.length > 0) {
+        const maxCentCount = stats.birthCenturies[0][1];
+        stats.birthCenturies.forEach(([cent, count]) => {
+          const pct = Math.round((count / maxCentCount) * 100);
+          const row = document.createElement('div');
+          row.className = 'bar-row';
+          row.innerHTML = `
+            <span class="bar-label" title="${cent}">${cent}</span>
+            <div class="bar-outer"><div class="bar-fill" style="width: ${pct}%; background:#8b5cf6;"></div></div>
+            <span class="bar-count">${count}</span>
+          `;
+          centBox.appendChild(row);
+        });
+      }
+
       // Top Places
       const plcBox = document.getElementById('topPlacesBox');
       plcBox.innerHTML = '';
-      const maxPlcCount = stats.topPlaces.length > 0 ? stats.topPlaces[0][1] : 1;
-      stats.topPlaces.forEach(([plc, count]) => {
+      const maxPlcCount = stats.topPlaces && stats.topPlaces.length > 0 ? stats.topPlaces[0][1] : 1;
+      (stats.topPlaces || []).forEach(([plc, count]) => {
         const pct = Math.round((count / maxPlcCount) * 100);
         const row = document.createElement('div');
         row.className = 'bar-row';
@@ -1532,7 +1641,7 @@
       const container = document.getElementById('calendarEventsContainer');
       container.innerHTML = '';
 
-      document.getElementById('calTitle').textContent = `📅 Calendario Familiar: ${currentTreeData.title}`;
+      document.getElementById('calTitle').textContent = `Calendario Familiar: ${currentTreeData.title}`;
 
       // Extract all dated events
       const allEvents = [];

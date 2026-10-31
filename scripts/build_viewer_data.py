@@ -325,9 +325,61 @@ def parse_gedcom(filepath, tree_id, tree_title, subtitle, default_root_id=None):
     years = []
     places = []
     surnames = []
+    given_names = []
+    month_counts = {m: 0 for m in range(1, 13)}
+    lifespans_m = []
+    lifespans_f = []
+    birth_centuries = []
+
+    MONTH_MAP = {
+        'jan': 1, 'ene': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'abr': 4,
+        'may': 5, 'jun': 6, 'jul': 7, 'aug': 8, 'ago': 8, 'sep': 9,
+        'set': 9, 'oct': 10, 'nov': 11, 'dec': 12, 'dic': 12
+    }
+
     for p in indis.values():
         if p.get('surname'):
             surnames.append(p['surname'])
+
+        gn = p.get('givenName', '')
+        if not gn and p.get('name'):
+            gn = p['name'].split()[0]
+        if gn:
+            first_w = gn.replace(',', '').split()[0].capitalize()
+            if len(first_w) > 1 and first_w not in ['?', 'Desconocido']:
+                given_names.append(first_w)
+
+        bdate = p.get('birth', {}).get('date', '')
+        ddate = p.get('death', {}).get('date', '')
+
+        if bdate:
+            m = re.search(r'\b([a-zA-ZáéíóúÁÉÍÓÚ]{3,})\b', bdate)
+            if m:
+                m_key = m.group(1).lower()[:3]
+                if m_key in MONTH_MAP:
+                    month_counts[MONTH_MAP[m_key]] += 1
+
+            y_m = re.search(r'\b(1[4-9]\d\d|20\d\d)\b', bdate)
+            if y_m:
+                by = int(y_m.group(1))
+                cent = (by // 100) + 1
+                cent_roman = {16: 'XVI', 17: 'XVII', 18: 'XVIII', 19: 'XIX', 20: 'XX', 21: 'XXI'}.get(cent, str(cent))
+                birth_centuries.append(f'Siglo {cent_roman}')
+
+        if bdate and ddate:
+            yb_m = re.search(r'\b(1[4-9]\d\d|20\d\d)\b', bdate)
+            yd_m = re.search(r'\b(1[4-9]\d\d|20\d\d)\b', ddate)
+            if yb_m and yd_m:
+                yb = int(yb_m.group(1))
+                yd = int(yd_m.group(1))
+                age = yd - yb
+                if 0 <= age <= 115:
+                    entry = {'age': age, 'name': p['name'], 'birth': yb, 'death': yd}
+                    if p.get('sex') == 'M':
+                        lifespans_m.append(entry)
+                    elif p.get('sex') == 'F':
+                        lifespans_f.append(entry)
+
         for ev in [p.get('birth', {}), p.get('death', {})]:
             d = ev.get('date', '')
             ym = re.findall(r'\b(1[4-9]\d\d|20\d\d)\b', d)
@@ -340,7 +392,26 @@ def parse_gedcom(filepath, tree_id, tree_title, subtitle, default_root_id=None):
     min_year = min(years) if years else None
     max_year = max(years) if years else None
     top_surnames = Counter(surnames).most_common(8)
+    top_given_names = Counter(given_names).most_common(8)
     top_places = Counter(places).most_common(8)
+    birth_cent_counts = Counter(birth_centuries).most_common()
+
+    def get_life_summary(arr):
+        if not arr: return {'count': 0, 'avg': 0, 'maxAge': 0, 'maxPerson': ''}
+        avg_age = round(sum(x['age'] for x in arr) / len(arr), 1)
+        max_item = max(arr, key=lambda x: x['age'])
+        return {
+            'count': len(arr),
+            'avg': avg_age,
+            'maxAge': max_item['age'],
+            'maxPerson': f"{max_item['name']} ({max_item['age']} años, {max_item['birth']}–{max_item['death']})"
+        }
+
+    lifespan_summary = {
+        'men': get_life_summary(lifespans_m),
+        'women': get_life_summary(lifespans_f),
+        'overall': get_life_summary(lifespans_m + lifespans_f)
+    }
 
     if not default_root_id or default_root_id not in indis:
         default_root_id = 'I1' if 'I1' in indis else next(iter(indis.keys()))
@@ -356,7 +427,11 @@ def parse_gedcom(filepath, tree_id, tree_title, subtitle, default_root_id=None):
             'minYear': min_year,
             'maxYear': max_year,
             'topSurnames': top_surnames,
-            'topPlaces': top_places
+            'topGivenNames': top_given_names,
+            'topPlaces': top_places,
+            'birthMonths': [{'month': m, 'count': month_counts[m]} for m in range(1, 13)],
+            'birthCenturies': birth_cent_counts,
+            'lifespan': lifespan_summary
         },
         'individuals': indis,
         'families': fams

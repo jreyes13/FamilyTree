@@ -42,6 +42,40 @@
         5
       ]
     ],
+    "topGivenNames": [
+      [
+        "María",
+        39
+      ],
+      [
+        "José",
+        22
+      ],
+      [
+        "Francisco",
+        10
+      ],
+      [
+        "Juan",
+        10
+      ],
+      [
+        "Antonio",
+        10
+      ],
+      [
+        "Ana",
+        6
+      ],
+      [
+        "Pilar",
+        6
+      ],
+      [
+        "Pedro",
+        6
+      ]
+    ],
     "topPlaces": [
       [
         "Madrid (SPAIN)",
@@ -75,7 +109,99 @@
         "Limés, Asturias (SPAIN)",
         6
       ]
-    ]
+    ],
+    "birthMonths": [
+      {
+        "month": 1,
+        "count": 13
+      },
+      {
+        "month": 2,
+        "count": 15
+      },
+      {
+        "month": 3,
+        "count": 18
+      },
+      {
+        "month": 4,
+        "count": 19
+      },
+      {
+        "month": 5,
+        "count": 14
+      },
+      {
+        "month": 6,
+        "count": 19
+      },
+      {
+        "month": 7,
+        "count": 19
+      },
+      {
+        "month": 8,
+        "count": 14
+      },
+      {
+        "month": 9,
+        "count": 14
+      },
+      {
+        "month": 10,
+        "count": 17
+      },
+      {
+        "month": 11,
+        "count": 19
+      },
+      {
+        "month": 12,
+        "count": 19
+      }
+    ],
+    "birthCenturies": [
+      [
+        "Siglo XX",
+        176
+      ],
+      [
+        "Siglo XXI",
+        45
+      ],
+      [
+        "Siglo XIX",
+        11
+      ],
+      [
+        "Siglo XVII",
+        5
+      ],
+      [
+        "Siglo XVIII",
+        1
+      ]
+    ],
+    "lifespan": {
+      "men": {
+        "count": 31,
+        "avg": 69.1,
+        "maxAge": 96,
+        "maxPerson": "Conceso HERVÁS MARTÍNEZ (96 años, 1918–2014)"
+      },
+      "women": {
+        "count": 26,
+        "avg": 77.1,
+        "maxAge": 103,
+        "maxPerson": "Victorina DE LAS HERAS PRADALES (103 años, 1913–2016)"
+      },
+      "overall": {
+        "count": 57,
+        "avg": 72.7,
+        "maxAge": 103,
+        "maxPerson": "Victorina DE LAS HERAS PRADALES (103 años, 1913–2016)"
+      }
+    }
   },
   "individuals": {
     "I1": {
