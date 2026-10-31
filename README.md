@@ -27,19 +27,40 @@ Building and maintaining a family tree has several advantages:
 
 ## 🔍 How to View the Tree  
 
-You can explore the tree interactively using:  
+### 🌟 1. Interactive Family Tree Web Viewer (Built-in)
+This repository includes a modern, dedicated **Family Tree Web Viewer** located in the [`docs/`](docs/) folder. It works completely offline and is ready for GitHub Pages:
+
+- **Tree Selector:**
+  1. 🌿 **Árbol Reyes - Moreira** (373 individuals) – Madrid, Galicia, Asturias, Ribera del Duero.
+  2. 🌿 **Árbol González - Guijarro** (92 individuals) – Covarrubias, Moradillo, Fuentecén, Aldehorno.
+  3. 🌟 **Árbol Unificado Familiar** (461 individuals) – Full merger connecting all branches across centuries (1614 – 2026).
+- **Interactive Navigation:** Pan & zoom across generations (ancestors and descendants), search by name, year, or location, and view detailed cards with direct relatives and photographs.
+- **How to Open:**
+  - **Locally:** Simply open [`docs/index.html`](docs/index.html) in any web browser.
+  - **Online via GitHub Pages:** Go to repository *Settings* → *Pages* → select `Source: Deploy from a branch`, `Branch: main` and `/docs` folder.
+
+---
+
+### 📂 Available GEDCOM Files
+
+- **[`REYES_MOREIRA_Genealogy.ged`](REYES_MOREIRA_Genealogy.ged):** Isolated tree (373 individuals, 123 families).
+- **[`GONZALEZ_GUIJARRO_Genealogy.ged`](GONZALEZ_GUIJARRO_Genealogy.ged):** Isolated tree (92 individuals, 47 families).
+- **[`MASTER_UNIFIED_Genealogy.ged`](MASTER_UNIFIED_Genealogy.ged):** Unified master tree merging both branches (461 individuals, 169 families).
+
+---
+
+### 🌐 2. External Genealogy Viewers & Software
 
 - **Topola Genealogy Viewer** (online, no installation):  
   👉 [Open Family Tree in Topola Viewer](https://pewu.github.io/topola-viewer/#/)  
-  - Upload the `.ged` file from this repository.  
+  - Upload either `.ged` file from this repository.  
   - Browse individuals, families, and connections dynamically.  
 
-- **Findmypast** (or other genealogy sites):  
+- **Findmypast** (or other genealogy platforms):  
   - Import the `.ged` file into your personal account at [Findmypast](https://www.findmypast.co.uk/).  
-  - Use advanced search tools and historical records.  
 
-- **Genealogy software** (desktop or mobile):  
-  - Examples: [Gramps](https://gramps-project.org/), [Family Tree Builder](https://www.myheritage.com/family-tree-builder), [Ancestris](https://www.ancestris.org/).  
+- **Desktop & Mobile Genealogy Software:**  
+  - Examples: [Gramps](https://gramps-project.org/), [Ancestris](https://www.ancestris.org/), [Family Tree Builder](https://www.myheritage.com/family-tree-builder).  
 
 ---
 

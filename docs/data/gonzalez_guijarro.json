@@ -1,0 +1,3607 @@
+{
+  "id": "gonzalez_guijarro",
+  "title": "Árbol González - Guijarro",
+  "subtitle": "Rama Estilita · Covarrubias, Moradillo, Fuentecén y Ribera del Arlanza",
+  "rootId": "I1",
+  "individualsCount": 92,
+  "familiesCount": 47,
+  "stats": {
+    "minYear": 1777,
+    "maxYear": 2026,
+    "topSurnames": [
+      [
+        "MAYOR ARRANZ",
+        3
+      ],
+      [
+        "GONZÁLEZ GUIJARRO",
+        2
+      ],
+      [
+        "MAYOR BAJO",
+        2
+      ],
+      [
+        "PLAZA MAYOR",
+        2
+      ],
+      [
+        "GONZÁLEZ ARROYO",
+        1
+      ],
+      [
+        "ARROYO ZUÑIGA",
+        1
+      ],
+      [
+        "GUIJARRO SANZ",
+        1
+      ],
+      [
+        "GONZÁLEZ PEÑA",
+        1
+      ]
+    ],
+    "topPlaces": [
+      [
+        "Covarrubias, Burgos (SPAIN)",
+        33
+      ],
+      [
+        "Moradillo, Burgos (SPAIN)",
+        24
+      ],
+      [
+        "Fuentecén, Burgos (SPAIN)",
+        16
+      ],
+      [
+        "Aldehorno, Segovia (SPAIN)",
+        5
+      ],
+      [
+        "La Sequera de Haza, Burgos (SPAIN)",
+        4
+      ],
+      [
+        "Hontangas, Burgos (SPAIN)",
+        3
+      ],
+      [
+        "Nebreda, Burgos (SPAIN)",
+        3
+      ],
+      [
+        "La Sequera, Burgos (SPAIN)",
+        2
+      ]
+    ]
+  },
+  "individuals": {
+    "I1": {
+      "id": "I1",
+      "name": "Estilita GONZÁLEZ GUIJARRO",
+      "givenName": "Estilita",
+      "surname": "GONZÁLEZ GUIJARRO",
+      "sex": "F",
+      "birth": {
+        "date": "30 DEC 2025",
+        "place": "Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [],
+      "famc": "F2",
+      "photos": [],
+      "parents": [
+        "I2",
+        "I4"
+      ],
+      "siblings": [
+        "I8"
+      ],
+      "spouses": [],
+      "children": []
+    },
+    "I2": {
+      "id": "I2",
+      "name": "Juan José GONZÁLEZ ARROYO",
+      "givenName": "Juan José",
+      "surname": "GONZÁLEZ ARROYO",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F2"
+      ],
+      "famc": "F1",
+      "photos": [],
+      "parents": [
+        "I5",
+        "I3"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I4",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I1",
+        "I8"
+      ]
+    },
+    "I3": {
+      "id": "I3",
+      "name": "Eugenia Anastasia ARROYO ZUÑIGA",
+      "givenName": "Eugenia Anastasia",
+      "surname": "ARROYO ZUÑIGA",
+      "sex": "F",
+      "birth": {
+        "date": "25 Dec 1877",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F1"
+      ],
+      "famc": "F19",
+      "photos": [],
+      "parents": [
+        "I39",
+        "I40"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I5",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I2"
+      ]
+    },
+    "I4": {
+      "id": "I4",
+      "name": "Emiliana GUIJARRO SANZ",
+      "givenName": "Emiliana",
+      "surname": "GUIJARRO SANZ",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F2"
+      ],
+      "famc": "F3",
+      "photos": [],
+      "parents": [
+        "I6",
+        "I7"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I2",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I1",
+        "I8"
+      ]
+    },
+    "I5": {
+      "id": "I5",
+      "name": "Felipe GONZÁLEZ PEÑA",
+      "givenName": "Felipe",
+      "surname": "GONZÁLEZ PEÑA",
+      "sex": "M",
+      "birth": {
+        "date": "13 Sep 1875",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F1"
+      ],
+      "famc": "F4",
+      "photos": [],
+      "parents": [
+        "I9",
+        "I10"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I3",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I2"
+      ]
+    },
+    "I6": {
+      "id": "I6",
+      "name": "Eusebio GUIJARRO ARROYO",
+      "givenName": "Eusebio",
+      "surname": "GUIJARRO ARROYO",
+      "sex": "M",
+      "birth": {
+        "date": "16 Aug 1883",
+        "place": "La Sequera, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025",
+        "place": "La Sequera, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F3"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I7",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I4"
+      ]
+    },
+    "I7": {
+      "id": "I7",
+      "name": "Teófila SANZ GARCÍA",
+      "givenName": "Teófila",
+      "surname": "SANZ GARCÍA",
+      "sex": "F",
+      "birth": {
+        "date": "06 Feb 1890",
+        "place": "Hontangas, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F3"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I6",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I4"
+      ]
+    },
+    "I8": {
+      "id": "I8",
+      "name": "Aurora GONZÁLEZ GUIJARRO",
+      "givenName": "Aurora",
+      "surname": "GONZÁLEZ GUIJARRO",
+      "sex": "F",
+      "birth": {
+        "date": "30 DEC 2025",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [],
+      "famc": "F2",
+      "photos": [],
+      "parents": [
+        "I2",
+        "I4"
+      ],
+      "siblings": [
+        "I1"
+      ],
+      "spouses": [],
+      "children": []
+    },
+    "I9": {
+      "id": "I9",
+      "name": "Ezequiel GONZÁLEZ PINTADO",
+      "givenName": "Ezequiel",
+      "surname": "GONZÁLEZ PINTADO",
+      "sex": "M",
+      "birth": {
+        "date": "1850",
+        "place": "Fontioso/Granja de Guimara, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025",
+        "place": "Fontioso/Granja de Guimara, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F4"
+      ],
+      "famc": "F5",
+      "photos": [],
+      "parents": [
+        "I11",
+        "I12"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I10",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I5"
+      ]
+    },
+    "I10": {
+      "id": "I10",
+      "name": "Bonifacia PEÑA MAYOR",
+      "givenName": "Bonifacia",
+      "surname": "PEÑA MAYOR",
+      "sex": "F",
+      "birth": {
+        "date": "13 May 1852",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F4"
+      ],
+      "famc": "F12",
+      "photos": [],
+      "parents": [
+        "I25",
+        "I26"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I9",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I5"
+      ]
+    },
+    "I11": {
+      "id": "I11",
+      "name": "Fabián Sebastián GONZÁLEZ REVILLA",
+      "givenName": "Fabián Sebastián",
+      "surname": "GONZÁLEZ REVILLA",
+      "sex": "M",
+      "birth": {
+        "date": "20 Jan 1815",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "30 DEC 2025",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F5"
+      ],
+      "famc": "F6",
+      "photos": [],
+      "parents": [
+        "I13",
+        "I14"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I12",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I9"
+      ]
+    },
+    "I12": {
+      "id": "I12",
+      "name": "Rafaela PINTADO PASCUAL",
+      "givenName": "Rafaela",
+      "surname": "PINTADO PASCUAL",
+      "sex": "F",
+      "birth": {
+        "date": "30 DEC 2025",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F5"
+      ],
+      "famc": "F9",
+      "photos": [],
+      "parents": [
+        "I19",
+        "I20"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I11",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I9"
+      ]
+    },
+    "I13": {
+      "id": "I13",
+      "name": "Valentín GONZÁLEZ IGUERA",
+      "givenName": "Valentín",
+      "surname": "GONZÁLEZ IGUERA",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F6"
+      ],
+      "famc": "F7",
+      "photos": [],
+      "parents": [
+        "I15",
+        "I16"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I14",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I11"
+      ]
+    },
+    "I14": {
+      "id": "I14",
+      "name": "Isabel REVILLA SANZ",
+      "givenName": "Isabel",
+      "surname": "REVILLA SANZ",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F6"
+      ],
+      "famc": "F8",
+      "photos": [],
+      "parents": [
+        "I17",
+        "I18"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I13",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I11"
+      ]
+    },
+    "I15": {
+      "id": "I15",
+      "name": "Valentín GONZÁLEZ SOBRINO",
+      "givenName": "Valentín",
+      "surname": "GONZÁLEZ SOBRINO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F7"
+      ],
+      "famc": "F31",
+      "photos": [],
+      "parents": [
+        "I59",
+        "I60"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I16",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I13"
+      ]
+    },
+    "I16": {
+      "id": "I16",
+      "name": "Nieves IGUERA ACINAS",
+      "givenName": "Nieves",
+      "surname": "IGUERA ACINAS",
+      "sex": "F",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F7"
+      ],
+      "famc": "F38",
+      "photos": [],
+      "parents": [
+        "I73",
+        "I74"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I15",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I13"
+      ]
+    },
+    "I17": {
+      "id": "I17",
+      "name": "Marcos REVILLA BERNAL",
+      "givenName": "Marcos",
+      "surname": "REVILLA BERNAL",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F8"
+      ],
+      "famc": "F39",
+      "photos": [],
+      "parents": [
+        "I76",
+        "I75"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I18",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I14"
+      ]
+    },
+    "I18": {
+      "id": "I18",
+      "name": "Tomasa SANZ JUARROS",
+      "givenName": "Tomasa",
+      "surname": "SANZ JUARROS",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F8"
+      ],
+      "famc": "F44",
+      "photos": [],
+      "parents": [
+        "I85",
+        "I86"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I17",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I14"
+      ]
+    },
+    "I19": {
+      "id": "I19",
+      "name": "Primo Feliciano PINTADO MOLINOS",
+      "givenName": "Primo Feliciano",
+      "surname": "PINTADO MOLINOS",
+      "sex": "M",
+      "birth": {
+        "place": "Fuentecén, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F9"
+      ],
+      "famc": "F10",
+      "photos": [],
+      "parents": [
+        "I21",
+        "I22"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I20",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I12"
+      ]
+    },
+    "I20": {
+      "id": "I20",
+      "name": "Demetria PASCUAL GARCÍA",
+      "givenName": "Demetria",
+      "surname": "PASCUAL GARCÍA",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F9"
+      ],
+      "famc": "F11",
+      "photos": [],
+      "parents": [
+        "I23",
+        "I24"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I19",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I12"
+      ]
+    },
+    "I21": {
+      "id": "I21",
+      "name": "Gaspar PINTADO",
+      "givenName": "Gaspar",
+      "surname": "PINTADO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F10"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I22",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I19"
+      ]
+    },
+    "I22": {
+      "id": "I22",
+      "name": "María MOLINOS GAONA",
+      "givenName": "María",
+      "surname": "MOLINOS GAONA",
+      "sex": "F",
+      "birth": {
+        "place": "Tórtoles, Ávila (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F10"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I21",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I19"
+      ]
+    },
+    "I23": {
+      "id": "I23",
+      "name": "Cándido PASCUAL CANO",
+      "givenName": "Cándido",
+      "surname": "PASCUAL CANO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F11"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I24",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I20"
+      ]
+    },
+    "I24": {
+      "id": "I24",
+      "name": "Joaquina GARCÍA MAMBRILLA",
+      "givenName": "Joaquina",
+      "surname": "GARCÍA MAMBRILLA",
+      "sex": "F",
+      "birth": {
+        "place": "La Horra, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F11"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I23",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I20"
+      ]
+    },
+    "I25": {
+      "id": "I25",
+      "name": "Agapito PEÑA ESTEBAN",
+      "givenName": "Agapito",
+      "surname": "PEÑA ESTEBAN",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F12"
+      ],
+      "famc": "F13",
+      "photos": [],
+      "parents": [
+        "I27",
+        "I28"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I26",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I10"
+      ]
+    },
+    "I26": {
+      "id": "I26",
+      "name": "Catalina MAYOR BAJO",
+      "givenName": "Catalina",
+      "surname": "MAYOR BAJO",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F12"
+      ],
+      "famc": "F20",
+      "photos": [],
+      "parents": [
+        "I33"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I25",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I10"
+      ]
+    },
+    "I27": {
+      "id": "I27",
+      "name": "Ambrosio PEÑA DE ROA",
+      "givenName": "Ambrosio",
+      "surname": "PEÑA DE ROA",
+      "sex": "M",
+      "birth": {
+        "place": "Fuentecén, Burgos (SPAIN)",
+        "date": "07 Dec 1796"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F13"
+      ],
+      "famc": "F14",
+      "photos": [],
+      "parents": [
+        "I29",
+        "I30"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I28",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I25"
+      ]
+    },
+    "I28": {
+      "id": "I28",
+      "name": "María Antonia ESTEBAN PÉREZ",
+      "givenName": "María Antonia",
+      "surname": "ESTEBAN PÉREZ",
+      "sex": "F",
+      "birth": {
+        "place": "Fuentecén, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F13"
+      ],
+      "famc": "F15",
+      "photos": [],
+      "parents": [
+        "I31",
+        "I32"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I27",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I25"
+      ]
+    },
+    "I29": {
+      "id": "I29",
+      "name": "Melchor PEÑA CARRASCO",
+      "givenName": "Melchor",
+      "surname": "PEÑA CARRASCO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Castrojimeno, Segovia (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F14"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I30",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I27"
+      ]
+    },
+    "I30": {
+      "id": "I30",
+      "name": "Ana DE ROA RODRÍGUEZ",
+      "givenName": "Ana",
+      "surname": "DE ROA RODRÍGUEZ",
+      "sex": "F",
+      "birth": {
+        "place": "Fuentecén, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F14"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I29",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I27"
+      ]
+    },
+    "I31": {
+      "id": "I31",
+      "name": "Vicente ESTEBAN PALOMINO",
+      "givenName": "Vicente",
+      "surname": "ESTEBAN PALOMINO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F15"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I32",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I28"
+      ]
+    },
+    "I32": {
+      "id": "I32",
+      "name": "Manuela PÉREZ DE LA HORRA",
+      "givenName": "Manuela",
+      "surname": "PÉREZ DE LA HORRA",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F15"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I31",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I28"
+      ]
+    },
+    "I33": {
+      "id": "I33",
+      "name": "Fernando Francisco MAYOR GUIJARRO",
+      "givenName": "Fernando Francisco",
+      "surname": "MAYOR GUIJARRO",
+      "sex": "M",
+      "birth": {
+        "date": "03 Jun 1794",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Fuentecén, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F16",
+        "F20",
+        "F22"
+      ],
+      "famc": "F17",
+      "photos": [],
+      "parents": [
+        "I35",
+        "I36"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I34",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I26",
+        "I42"
+      ]
+    },
+    "I34": {
+      "id": "I34",
+      "name": "Catalina BAJO ADRADOS",
+      "givenName": "Catalina",
+      "surname": "BAJO ADRADOS",
+      "sex": "F",
+      "birth": {
+        "date": "30 Nov 1794",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F16"
+      ],
+      "famc": "F18",
+      "photos": [],
+      "parents": [
+        "I37",
+        "I38"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I33",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I26",
+        "I42"
+      ]
+    },
+    "I35": {
+      "id": "I35",
+      "name": "Francisco MAYOR ARRANZ",
+      "givenName": "Francisco",
+      "surname": "MAYOR ARRANZ",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F17"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I36",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I33"
+      ]
+    },
+    "I36": {
+      "id": "I36",
+      "name": "Gabriela GUIJARRO GONZÁLEZ",
+      "givenName": "Gabriela",
+      "surname": "GUIJARRO GONZÁLEZ",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Hontangas, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F17"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I35",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I33"
+      ]
+    },
+    "I37": {
+      "id": "I37",
+      "name": "Francisco BAJO CUESTA",
+      "givenName": "Francisco",
+      "surname": "BAJO CUESTA",
+      "sex": "M",
+      "birth": {
+        "place": "La Sequera de Haza, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F18"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I38",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I34"
+      ]
+    },
+    "I38": {
+      "id": "I38",
+      "name": "Anastasia ADRADOS ARRANZ",
+      "givenName": "Anastasia",
+      "surname": "ADRADOS ARRANZ",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F18"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I37",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I34"
+      ]
+    },
+    "I39": {
+      "id": "I39",
+      "name": "Juan De Dios ARROYO PLAZA",
+      "givenName": "Juan De Dios",
+      "surname": "ARROYO PLAZA",
+      "sex": "M",
+      "birth": {
+        "date": "08 Mar 1853",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F19"
+      ],
+      "famc": "F26",
+      "photos": [],
+      "parents": [
+        "I49",
+        "I50"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I40",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I3"
+      ]
+    },
+    "I40": {
+      "id": "I40",
+      "name": "Brígida ZUÑIGA MAYOR",
+      "givenName": "Brígida",
+      "surname": "ZUÑIGA MAYOR",
+      "sex": "F",
+      "birth": {
+        "date": "06 Oct 1853",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F19"
+      ],
+      "famc": "F21",
+      "photos": [],
+      "parents": [
+        "I41",
+        "I42"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I39",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I3"
+      ]
+    },
+    "I41": {
+      "id": "I41",
+      "name": "Julián ZÚÑIGA GARCÍA",
+      "givenName": "Julián",
+      "surname": "ZÚÑIGA GARCÍA",
+      "sex": "M",
+      "birth": {
+        "date": "15 Feb 1818",
+        "place": "Aldehorno, Segovia (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F21"
+      ],
+      "famc": "F23",
+      "photos": [],
+      "parents": [
+        "I43",
+        "I45"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I42",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I40"
+      ]
+    },
+    "I42": {
+      "id": "I42",
+      "name": "María Candelas MAYOR BAJO",
+      "givenName": "María Candelas",
+      "surname": "MAYOR BAJO",
+      "sex": "F",
+      "birth": {
+        "date": "02 Feb 1821",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F21"
+      ],
+      "famc": "F16",
+      "photos": [],
+      "parents": [
+        "I33",
+        "I34"
+      ],
+      "siblings": [
+        "I26"
+      ],
+      "spouses": [
+        {
+          "id": "I41",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I40"
+      ]
+    },
+    "I43": {
+      "id": "I43",
+      "name": "Bernardo Domingo ZUÑIGA IRIBARREN",
+      "givenName": "Bernardo Domingo",
+      "surname": "ZUÑIGA IRIBARREN",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Aldehorno, Segovia (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F23"
+      ],
+      "famc": "F24",
+      "photos": [],
+      "parents": [
+        "I44",
+        "I46"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I45",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I41"
+      ]
+    },
+    "I44": {
+      "id": "I44",
+      "name": "Joaquín ZÚÑIGA FERNÁNDEZ",
+      "givenName": "Joaquín",
+      "surname": "ZÚÑIGA FERNÁNDEZ",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Aldehorno, Segovia (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F24"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I46",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I43"
+      ]
+    },
+    "I45": {
+      "id": "I45",
+      "name": "Josefa GARCÍA PECHARROMÁN",
+      "givenName": "Josefa",
+      "surname": "GARCÍA PECHARROMÁN",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Aldehorno, Segovia (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F23"
+      ],
+      "famc": "F25",
+      "photos": [],
+      "parents": [
+        "I47",
+        "I48"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I43",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I41"
+      ]
+    },
+    "I46": {
+      "id": "I46",
+      "name": "Catalina IRIBARREN AGUILAR",
+      "givenName": "Catalina",
+      "surname": "IRIBARREN AGUILAR",
+      "sex": "F",
+      "birth": {
+        "place": "Coruña del Conde, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F24"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I44",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I43"
+      ]
+    },
+    "I47": {
+      "id": "I47",
+      "name": "Francisco GARCÍA DEL HIERRO",
+      "givenName": "Francisco",
+      "surname": "GARCÍA DEL HIERRO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Aldehorno, Segovia (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F25"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I48",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I45"
+      ]
+    },
+    "I48": {
+      "id": "I48",
+      "name": "Isabel PECHARROMÁN DE DIEGO",
+      "givenName": "Isabel",
+      "surname": "PECHARROMÁN DE DIEGO",
+      "sex": "F",
+      "birth": {
+        "place": "Fuentenebro, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F25"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I47",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I45"
+      ]
+    },
+    "I49": {
+      "id": "I49",
+      "name": "Blas ARROYO RINCÓN",
+      "givenName": "Blas",
+      "surname": "ARROYO RINCÓN",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "La Sequera de Haza, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F26"
+      ],
+      "famc": "F27",
+      "photos": [],
+      "parents": [
+        "I51",
+        "I52"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I50",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I39"
+      ]
+    },
+    "I50": {
+      "id": "I50",
+      "name": "Petra PLAZA MAYOR",
+      "givenName": "Petra",
+      "surname": "PLAZA MAYOR",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F26"
+      ],
+      "famc": "F28",
+      "photos": [],
+      "parents": [
+        "I53",
+        "I54"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I49",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I39"
+      ]
+    },
+    "I51": {
+      "id": "I51",
+      "name": "Manuel ARROYO",
+      "givenName": "Manuel",
+      "surname": "ARROYO",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "La Sequera de Haza, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F27"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I52",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I49"
+      ]
+    },
+    "I52": {
+      "id": "I52",
+      "name": "Saturnina RINCÓN",
+      "givenName": "Saturnina",
+      "surname": "RINCÓN",
+      "sex": "F",
+      "birth": {
+        "place": "La Sequera de Haza, Burgos (SPAIN)",
+        "date": "1 JAN 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F27"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I51",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I49"
+      ]
+    },
+    "I53": {
+      "id": "I53",
+      "name": "Casiano PLAZA MAYOR",
+      "givenName": "Casiano",
+      "surname": "PLAZA MAYOR",
+      "sex": "M",
+      "birth": {
+        "date": "07 Jul 1777",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F28"
+      ],
+      "famc": "F29",
+      "photos": [],
+      "parents": [
+        "I55",
+        "I56"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I54",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I50"
+      ]
+    },
+    "I54": {
+      "id": "I54",
+      "name": "Felipa MAYOR SANZ",
+      "givenName": "Felipa",
+      "surname": "MAYOR SANZ",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F28"
+      ],
+      "famc": "F30",
+      "photos": [],
+      "parents": [
+        "I57",
+        "I58"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I53",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I50"
+      ]
+    },
+    "I55": {
+      "id": "I55",
+      "name": "Casiano PLAZA MARTÍNEZ",
+      "givenName": "Casiano",
+      "surname": "PLAZA MARTÍNEZ",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F29"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I56",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I53"
+      ]
+    },
+    "I56": {
+      "id": "I56",
+      "name": "Felipa MAYOR ARRANZ",
+      "givenName": "Felipa",
+      "surname": "MAYOR ARRANZ",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F29"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I55",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I53"
+      ]
+    },
+    "I57": {
+      "id": "I57",
+      "name": "Manuel MAYOR ARRANZ",
+      "givenName": "Manuel",
+      "surname": "MAYOR ARRANZ",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Moradillo, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F30"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I58",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I54"
+      ]
+    },
+    "I58": {
+      "id": "I58",
+      "name": "Catalina SANZ LÁZARO",
+      "givenName": "Catalina",
+      "surname": "SANZ LÁZARO",
+      "sex": "F",
+      "birth": {
+        "date": "1 JAN 2026",
+        "place": "Hontangas, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F30"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I57",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I54"
+      ]
+    },
+    "I59": {
+      "id": "I59",
+      "name": "Manuel GONZÁLEZ LÓPEZ",
+      "givenName": "Manuel",
+      "surname": "GONZÁLEZ LÓPEZ",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F31"
+      ],
+      "famc": "F32",
+      "photos": [],
+      "parents": [
+        "I61",
+        "I62"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I60",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I15"
+      ]
+    },
+    "I60": {
+      "id": "I60",
+      "name": "Micaela SOBRINO HERASO",
+      "givenName": "Micaela",
+      "surname": "SOBRINO HERASO",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F31"
+      ],
+      "famc": "F36",
+      "photos": [],
+      "parents": [
+        "I69",
+        "I70"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I59",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I15"
+      ]
+    },
+    "I61": {
+      "id": "I61",
+      "name": "Baltasar GONZÁLEZ ARRIAGA",
+      "givenName": "Baltasar",
+      "surname": "GONZÁLEZ ARRIAGA",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F32"
+      ],
+      "famc": "F33",
+      "photos": [],
+      "parents": [
+        "I63",
+        "I64"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I62",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I59"
+      ]
+    },
+    "I62": {
+      "id": "I62",
+      "name": "María LÓPEZ RUIZ",
+      "givenName": "María",
+      "surname": "LÓPEZ RUIZ",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F32"
+      ],
+      "famc": "F35",
+      "photos": [],
+      "parents": [
+        "I67",
+        "I68"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I61",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I59"
+      ]
+    },
+    "I63": {
+      "id": "I63",
+      "name": "Agustín GONZÁLEZ GIL",
+      "givenName": "Agustín",
+      "surname": "GONZÁLEZ GIL",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F33"
+      ],
+      "famc": "F34",
+      "photos": [],
+      "parents": [
+        "I65",
+        "I66"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I64",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I61"
+      ]
+    },
+    "I64": {
+      "id": "I64",
+      "name": "Josefha ARRIAGA",
+      "givenName": "Josefha",
+      "surname": "ARRIAGA",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F33"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I63",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I61"
+      ]
+    },
+    "I65": {
+      "id": "I65",
+      "name": "Agustín GONZÁLEZ MORENO",
+      "givenName": "Agustín",
+      "surname": "GONZÁLEZ MORENO",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F34"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I66",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I63"
+      ]
+    },
+    "I66": {
+      "id": "I66",
+      "name": "Águeda GIL",
+      "givenName": "Águeda",
+      "surname": "GIL",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F34"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I65",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I63"
+      ]
+    },
+    "I67": {
+      "id": "I67",
+      "name": "Francisco LÓPEZ",
+      "givenName": "Francisco",
+      "surname": "LÓPEZ",
+      "sex": "M",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F35"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I68",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I62"
+      ]
+    },
+    "I68": {
+      "id": "I68",
+      "name": "María De La Cruz (Maricruz) RUIZ",
+      "givenName": "María De La Cruz (Maricruz)",
+      "surname": "RUIZ",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F35"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I67",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I62"
+      ]
+    },
+    "I69": {
+      "id": "I69",
+      "name": "Manuel SOBRINO",
+      "givenName": "Manuel",
+      "surname": "SOBRINO",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F36"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I70",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I60"
+      ]
+    },
+    "I70": {
+      "id": "I70",
+      "name": "Damiana HERASO CASTRO",
+      "givenName": "Damiana",
+      "surname": "HERASO CASTRO",
+      "sex": "F",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F36"
+      ],
+      "famc": "F37",
+      "photos": [],
+      "parents": [
+        "I71",
+        "I72"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I69",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I60"
+      ]
+    },
+    "I71": {
+      "id": "I71",
+      "name": "Roque ERAXO (HERASO)",
+      "givenName": "Roque",
+      "surname": "ERAXO (HERASO)",
+      "sex": "M",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F37"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I72",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I70"
+      ]
+    },
+    "I72": {
+      "id": "I72",
+      "name": "Damiana CASTRO",
+      "givenName": "Damiana",
+      "surname": "CASTRO",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F37"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I71",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I70"
+      ]
+    },
+    "I73": {
+      "id": "I73",
+      "name": "Francisco IGUERA",
+      "givenName": "Francisco",
+      "surname": "IGUERA",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F38"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I74",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I16"
+      ]
+    },
+    "I74": {
+      "id": "I74",
+      "name": "Antonia ACINAS",
+      "givenName": "Antonia",
+      "surname": "ACINAS",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F38"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I73",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I16"
+      ]
+    },
+    "I75": {
+      "id": "I75",
+      "name": "María De La Cruz (Maricruz) BEMAL DEL AMO",
+      "givenName": "María De La Cruz (Maricruz)",
+      "surname": "BEMAL DEL AMO",
+      "sex": "F",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F39"
+      ],
+      "famc": "F41",
+      "photos": [],
+      "parents": [
+        "I79",
+        "I80"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I76",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I17"
+      ]
+    },
+    "I76": {
+      "id": "I76",
+      "name": "Manuel REVILLA COB",
+      "givenName": "Manuel",
+      "surname": "REVILLA COB",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Nebreda, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F39"
+      ],
+      "famc": "F40",
+      "photos": [],
+      "parents": [
+        "I77",
+        "I78"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I75",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I17"
+      ]
+    },
+    "I77": {
+      "id": "I77",
+      "name": "Pedro REVILLA",
+      "givenName": "Pedro",
+      "surname": "REVILLA",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Nebreda, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F40"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I78",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I76"
+      ]
+    },
+    "I78": {
+      "id": "I78",
+      "name": "Inés COB",
+      "givenName": "Inés",
+      "surname": "COB",
+      "sex": "F",
+      "birth": {
+        "place": "Nebreda, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F40"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I77",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I76"
+      ]
+    },
+    "I79": {
+      "id": "I79",
+      "name": "Tomás BEMAL JUNCA",
+      "givenName": "Tomás",
+      "surname": "BEMAL JUNCA",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F41"
+      ],
+      "famc": "F42",
+      "photos": [],
+      "parents": [
+        "I81",
+        "I82"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I80",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I75"
+      ]
+    },
+    "I80": {
+      "id": "I80",
+      "name": "Francisca DEL AMO VELASCO",
+      "givenName": "Francisca",
+      "surname": "DEL AMO VELASCO",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F41"
+      ],
+      "famc": "F43",
+      "photos": [],
+      "parents": [
+        "I83",
+        "I84"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I79",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I75"
+      ]
+    },
+    "I81": {
+      "id": "I81",
+      "name": "Juan BERNAL",
+      "givenName": "Juan",
+      "surname": "BERNAL",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F42"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I82",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I79"
+      ]
+    },
+    "I82": {
+      "id": "I82",
+      "name": "Luisa JUNCA",
+      "givenName": "Luisa",
+      "surname": "JUNCA",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F42"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I81",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I79"
+      ]
+    },
+    "I83": {
+      "id": "I83",
+      "name": "Isidro DEL AMO",
+      "givenName": "Isidro",
+      "surname": "DEL AMO",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F43"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I84",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I80"
+      ]
+    },
+    "I84": {
+      "id": "I84",
+      "name": "Tomasa VELASCO",
+      "givenName": "Tomasa",
+      "surname": "VELASCO",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F43"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I83",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I80"
+      ]
+    },
+    "I85": {
+      "id": "I85",
+      "name": "Tomás SANZ ORTIGÜELA",
+      "givenName": "Tomás",
+      "surname": "SANZ ORTIGÜELA",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F44"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I86",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I18"
+      ]
+    },
+    "I86": {
+      "id": "I86",
+      "name": "Agustina JUARROS VILLALBA",
+      "givenName": "Agustina",
+      "surname": "JUARROS VILLALBA",
+      "sex": "F",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F44"
+      ],
+      "famc": "F45",
+      "photos": [],
+      "parents": [
+        "I87",
+        "I88"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I85",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I18"
+      ]
+    },
+    "I87": {
+      "id": "I87",
+      "name": "Agustín JUARROS VARGAS",
+      "givenName": "Agustín",
+      "surname": "JUARROS VARGAS",
+      "sex": "M",
+      "birth": {
+        "date": "18 MAR 2026",
+        "place": "Covarrubias, Burgos (SPAIN)"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F45"
+      ],
+      "famc": "F46",
+      "photos": [],
+      "parents": [
+        "I89",
+        "I90"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I88",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I86"
+      ]
+    },
+    "I88": {
+      "id": "I88",
+      "name": "María VILLALBA DE LA VARGA",
+      "givenName": "María",
+      "surname": "VILLALBA DE LA VARGA",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F45"
+      ],
+      "famc": "F47",
+      "photos": [],
+      "parents": [
+        "I91",
+        "I92"
+      ],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I87",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I86"
+      ]
+    },
+    "I89": {
+      "id": "I89",
+      "name": "Joseh JUARROS",
+      "givenName": "Joseh",
+      "surname": "JUARROS",
+      "sex": "M",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F46"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I90",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I87"
+      ]
+    },
+    "I90": {
+      "id": "I90",
+      "name": "María VARGAS",
+      "givenName": "María",
+      "surname": "VARGAS",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F46"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I89",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I87"
+      ]
+    },
+    "I91": {
+      "id": "I91",
+      "name": "Alonso VILLALBA",
+      "givenName": "Alonso",
+      "surname": "VILLALBA",
+      "sex": "M",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F47"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I92",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I88"
+      ]
+    },
+    "I92": {
+      "id": "I92",
+      "name": "María DE LA VARGA",
+      "givenName": "María",
+      "surname": "DE LA VARGA",
+      "sex": "F",
+      "birth": {
+        "place": "Covarrubias, Burgos (SPAIN)",
+        "date": "18 MAR 2026"
+      },
+      "death": {},
+      "baptism": {},
+      "burial": {},
+      "occupation": "",
+      "notes": [],
+      "fams": [
+        "F47"
+      ],
+      "famc": null,
+      "photos": [],
+      "parents": [],
+      "siblings": [],
+      "spouses": [
+        {
+          "id": "I91",
+          "marriage": {}
+        }
+      ],
+      "children": [
+        "I88"
+      ]
+    }
+  },
+  "families": {
+    "F1": {
+      "id": "F1",
+      "husb": "I5",
+      "wife": "I3",
+      "children": [
+        "I2"
+      ],
+      "marriage": {}
+    },
+    "F2": {
+      "id": "F2",
+      "husb": "I2",
+      "wife": "I4",
+      "children": [
+        "I1",
+        "I8"
+      ],
+      "marriage": {}
+    },
+    "F3": {
+      "id": "F3",
+      "husb": "I6",
+      "wife": "I7",
+      "children": [
+        "I4"
+      ],
+      "marriage": {}
+    },
+    "F4": {
+      "id": "F4",
+      "husb": "I9",
+      "wife": "I10",
+      "children": [
+        "I5"
+      ],
+      "marriage": {}
+    },
+    "F5": {
+      "id": "F5",
+      "husb": "I11",
+      "wife": "I12",
+      "children": [
+        "I9"
+      ],
+      "marriage": {}
+    },
+    "F6": {
+      "id": "F6",
+      "husb": "I13",
+      "wife": "I14",
+      "children": [
+        "I11"
+      ],
+      "marriage": {}
+    },
+    "F7": {
+      "id": "F7",
+      "husb": "I15",
+      "wife": "I16",
+      "children": [
+        "I13"
+      ],
+      "marriage": {}
+    },
+    "F8": {
+      "id": "F8",
+      "husb": "I17",
+      "wife": "I18",
+      "children": [
+        "I14"
+      ],
+      "marriage": {}
+    },
+    "F9": {
+      "id": "F9",
+      "husb": "I19",
+      "wife": "I20",
+      "children": [
+        "I12"
+      ],
+      "marriage": {}
+    },
+    "F10": {
+      "id": "F10",
+      "husb": "I21",
+      "wife": "I22",
+      "children": [
+        "I19"
+      ],
+      "marriage": {}
+    },
+    "F11": {
+      "id": "F11",
+      "husb": "I23",
+      "wife": "I24",
+      "children": [
+        "I20"
+      ],
+      "marriage": {}
+    },
+    "F12": {
+      "id": "F12",
+      "husb": "I25",
+      "wife": "I26",
+      "children": [
+        "I10"
+      ],
+      "marriage": {}
+    },
+    "F13": {
+      "id": "F13",
+      "husb": "I27",
+      "wife": "I28",
+      "children": [
+        "I25"
+      ],
+      "marriage": {}
+    },
+    "F14": {
+      "id": "F14",
+      "husb": "I29",
+      "wife": "I30",
+      "children": [
+        "I27"
+      ],
+      "marriage": {}
+    },
+    "F15": {
+      "id": "F15",
+      "husb": "I31",
+      "wife": "I32",
+      "children": [
+        "I28"
+      ],
+      "marriage": {}
+    },
+    "F16": {
+      "id": "F16",
+      "husb": "I33",
+      "wife": "I34",
+      "children": [
+        "I26",
+        "I42"
+      ],
+      "marriage": {}
+    },
+    "F17": {
+      "id": "F17",
+      "husb": "I35",
+      "wife": "I36",
+      "children": [
+        "I33"
+      ],
+      "marriage": {}
+    },
+    "F18": {
+      "id": "F18",
+      "husb": "I37",
+      "wife": "I38",
+      "children": [
+        "I34"
+      ],
+      "marriage": {}
+    },
+    "F19": {
+      "id": "F19",
+      "husb": "I39",
+      "wife": "I40",
+      "children": [
+        "I3"
+      ],
+      "marriage": {}
+    },
+    "F20": {
+      "id": "F20",
+      "husb": "I33",
+      "wife": null,
+      "children": [
+        "I26"
+      ],
+      "marriage": {}
+    },
+    "F21": {
+      "id": "F21",
+      "husb": "I41",
+      "wife": "I42",
+      "children": [
+        "I40"
+      ],
+      "marriage": {}
+    },
+    "F22": {
+      "id": "F22",
+      "husb": "I33",
+      "wife": null,
+      "children": [],
+      "marriage": {}
+    },
+    "F23": {
+      "id": "F23",
+      "husb": "I43",
+      "wife": "I45",
+      "children": [
+        "I41"
+      ],
+      "marriage": {}
+    },
+    "F24": {
+      "id": "F24",
+      "husb": "I44",
+      "wife": "I46",
+      "children": [
+        "I43"
+      ],
+      "marriage": {}
+    },
+    "F25": {
+      "id": "F25",
+      "husb": "I47",
+      "wife": "I48",
+      "children": [
+        "I45"
+      ],
+      "marriage": {}
+    },
+    "F26": {
+      "id": "F26",
+      "husb": "I49",
+      "wife": "I50",
+      "children": [
+        "I39"
+      ],
+      "marriage": {}
+    },
+    "F27": {
+      "id": "F27",
+      "husb": "I51",
+      "wife": "I52",
+      "children": [
+        "I49"
+      ],
+      "marriage": {}
+    },
+    "F28": {
+      "id": "F28",
+      "husb": "I53",
+      "wife": "I54",
+      "children": [
+        "I50"
+      ],
+      "marriage": {}
+    },
+    "F29": {
+      "id": "F29",
+      "husb": "I55",
+      "wife": "I56",
+      "children": [
+        "I53"
+      ],
+      "marriage": {}
+    },
+    "F30": {
+      "id": "F30",
+      "husb": "I57",
+      "wife": "I58",
+      "children": [
+        "I54"
+      ],
+      "marriage": {}
+    },
+    "F31": {
+      "id": "F31",
+      "husb": "I59",
+      "wife": "I60",
+      "children": [
+        "I15"
+      ],
+      "marriage": {}
+    },
+    "F32": {
+      "id": "F32",
+      "husb": "I61",
+      "wife": "I62",
+      "children": [
+        "I59"
+      ],
+      "marriage": {}
+    },
+    "F33": {
+      "id": "F33",
+      "husb": "I63",
+      "wife": "I64",
+      "children": [
+        "I61"
+      ],
+      "marriage": {}
+    },
+    "F34": {
+      "id": "F34",
+      "husb": "I65",
+      "wife": "I66",
+      "children": [
+        "I63"
+      ],
+      "marriage": {}
+    },
+    "F35": {
+      "id": "F35",
+      "husb": "I67",
+      "wife": "I68",
+      "children": [
+        "I62"
+      ],
+      "marriage": {}
+    },
+    "F36": {
+      "id": "F36",
+      "husb": "I69",
+      "wife": "I70",
+      "children": [
+        "I60"
+      ],
+      "marriage": {}
+    },
+    "F37": {
+      "id": "F37",
+      "husb": "I71",
+      "wife": "I72",
+      "children": [
+        "I70"
+      ],
+      "marriage": {}
+    },
+    "F38": {
+      "id": "F38",
+      "husb": "I73",
+      "wife": "I74",
+      "children": [
+        "I16"
+      ],
+      "marriage": {}
+    },
+    "F39": {
+      "id": "F39",
+      "husb": "I76",
+      "wife": "I75",
+      "children": [
+        "I17"
+      ],
+      "marriage": {}
+    },
+    "F40": {
+      "id": "F40",
+      "husb": "I77",
+      "wife": "I78",
+      "children": [
+        "I76"
+      ],
+      "marriage": {}
+    },
+    "F41": {
+      "id": "F41",
+      "husb": "I79",
+      "wife": "I80",
+      "children": [
+        "I75"
+      ],
+      "marriage": {}
+    },
+    "F42": {
+      "id": "F42",
+      "husb": "I81",
+      "wife": "I82",
+      "children": [
+        "I79"
+      ],
+      "marriage": {}
+    },
+    "F43": {
+      "id": "F43",
+      "husb": "I83",
+      "wife": "I84",
+      "children": [
+        "I80"
+      ],
+      "marriage": {}
+    },
+    "F44": {
+      "id": "F44",
+      "husb": "I85",
+      "wife": "I86",
+      "children": [
+        "I18"
+      ],
+      "marriage": {}
+    },
+    "F45": {
+      "id": "F45",
+      "husb": "I87",
+      "wife": "I88",
+      "children": [
+        "I86"
+      ],
+      "marriage": {}
+    },
+    "F46": {
+      "id": "F46",
+      "husb": "I89",
+      "wife": "I90",
+      "children": [
+        "I87"
+      ],
+      "marriage": {}
+    },
+    "F47": {
+      "id": "F47",
+      "husb": "I91",
+      "wife": "I92",
+      "children": [
+        "I88"
+      ],
+      "marriage": {}
+    }
+  }
+}
