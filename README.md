@@ -1,5 +1,9 @@
 # Family Tree Project  
 
+> 🌐 **Live Interactive Tree Viewer:**  
+> 👉 **[https://jreyes13.github.io/FamilyTree/](https://jreyes13.github.io/FamilyTree/)**  
+> *(Navega interactivamente entre el **Árbol Reyes - Moreira**, el **Árbol González - Guijarro** o el **Árbol Unificado**)*
+
 This repository hosts a **family tree** in [GEDCOM format](https://en.wikipedia.org/wiki/GEDCOM), a widely used standard for exchanging genealogical data between different software and online platforms.  
 
 The idea is simple: by keeping this tree open and version-controlled on GitHub, anyone in the family (or collaborators) can view it, suggest improvements, and help grow an accurate and rich family history.  
@@ -36,8 +40,8 @@ This repository includes a modern, dedicated **Family Tree Web Viewer** located 
   3. 🌟 **Árbol Unificado Familiar** (461 individuals) – Full merger connecting all branches across centuries (1614 – 2026).
 - **Interactive Navigation:** Pan & zoom across generations (ancestors and descendants), search by name, year, or location, and view detailed cards with direct relatives and photographs.
 - **How to Open:**
-  - **Locally:** Simply open [`docs/index.html`](docs/index.html) in any web browser.
-  - **Online via GitHub Pages:** Go to repository *Settings* → *Pages* → select `Source: Deploy from a branch`, `Branch: main` and `/docs` folder.
+  - **Online (Direct Access):** 👉 **[Open Live Viewer](https://jreyes13.github.io/FamilyTree/)**
+  - **Locally:** Open [`docs/index.html`](docs/index.html) in any web browser.
 
 ---
 
