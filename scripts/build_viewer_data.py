@@ -244,9 +244,12 @@ def parse_gedcom(filepath, tree_id, tree_title, subtitle, default_root_id=None):
                     current['fams'].append(val.strip('@'))
                 elif tag == 'FAMC':
                     current['famc'] = val.strip('@')
-                elif level == '1' and tag in ['BIRT', 'DEAT', 'CHR', 'BAPM', 'BURI']:
-                    current['_last_event'] = tag
-                elif level == '2' and '_last_event' in current:
+                elif level == '1':
+                    if tag in ['BIRT', 'DEAT', 'CHR', 'BAPM', 'BURI']:
+                        current['_last_event'] = tag
+                    else:
+                        current['_last_event'] = None
+                elif level == '2' and current.get('_last_event'):
                     evt = current['_last_event']
                     target_dict = None
                     if evt == 'BIRT': target_dict = current['birth']
@@ -267,8 +270,11 @@ def parse_gedcom(filepath, tree_id, tree_title, subtitle, default_root_id=None):
                     current['wife'] = val.strip('@')
                 elif tag == 'CHIL':
                     current['children'].append(val.strip('@'))
-                elif level == '1' and tag == 'MARR':
-                    current['_last_event'] = 'MARR'
+                elif level == '1':
+                    if tag == 'MARR':
+                        current['_last_event'] = 'MARR'
+                    else:
+                        current['_last_event'] = None
                 elif level == '2' and current.get('_last_event') == 'MARR':
                     if tag == 'DATE':
                         current['marriage']['date'] = val.strip()

@@ -6,7 +6,7 @@
   "individualsCount": 461,
   "familiesCount": 169,
   "stats": {
-    "minYear": 1777,
+    "minYear": 1621,
     "maxYear": 2026,
     "topSurnames": [
       [
@@ -85,7 +85,7 @@
       "surname": "REYES GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "18 Nov 1980",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -124,7 +124,7 @@
       "surname": "GONZÁLEZ DE LAS HERAS",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "17 May 1947",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -168,7 +168,7 @@
         "place": "Ambite, Madrid (SPAIN)"
       },
       "death": {
-        "date": "14 SEP 2025",
+        "date": "16 Feb 2016",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -212,7 +212,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "24 SEP 2025",
+        "date": "16 Apr 2016",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -259,7 +259,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "24 SEP 2025",
+        "date": "15 Jul 1988",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -302,7 +302,7 @@
       "surname": "MOREIRA GARCÍA",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "23 Mar 1982",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -339,7 +339,7 @@
       "surname": "REYES MOREIRA",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "15 May 2014",
         "place": "Leiden (NETHERLANDS)"
       },
       "death": {},
@@ -368,7 +368,7 @@
       "surname": "REYES MOREIRA",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "28 Dec 2017",
         "place": "Prague (CZECH REPUBLIC)"
       },
       "death": {},
@@ -397,7 +397,7 @@
       "surname": "REYES MOREIRA",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "28 Dec 2017",
         "place": "Prague (CZECH REPUBLIC)"
       },
       "death": {},
@@ -426,7 +426,7 @@
       "surname": "REYES GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "02 Oct 1975",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -464,7 +464,7 @@
       "surname": "CASTEDO GRIMALDO",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "29 Mar 1971",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -497,7 +497,7 @@
       "surname": "CASTEDO REYES",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "30 Sep 2004",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -525,7 +525,7 @@
       "surname": "CASTEDO REYES",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "12 Mar 2007",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -553,7 +553,7 @@
       "surname": "MOREIRA VICENTE",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "27 Nov 1943",
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -597,7 +597,7 @@
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "13 SEP 2025",
+        "date": "1995",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -640,7 +640,7 @@
       "surname": "GARCÍA CARBONELL",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "20 Feb 1954",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -685,7 +685,7 @@
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "1997",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -732,7 +732,7 @@
         "place": "Cartagena, Murcia (SPAIN)"
       },
       "death": {
-        "date": "13 SEP 2025",
+        "date": "03 May 1976",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -777,7 +777,7 @@
         "place": "Alcobendas, Madrid (SPAIN)"
       },
       "death": {
-        "date": "13 SEP 2025",
+        "date": "14 Apr 1987",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -827,7 +827,7 @@
         "place": "Valencia (SPAIN)"
       },
       "death": {
-        "date": "12 SEP 2025",
+        "date": "14 Apr 1965",
         "place": "Quito (ECUADOR)"
       },
       "baptism": {},
@@ -855,7 +855,7 @@
       "sex": "M",
       "birth": {},
       "death": {
-        "date": "24 SEP 2025",
+        "date": "10 Sep 1964",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -892,7 +892,7 @@
       "sex": "F",
       "birth": {},
       "death": {
-        "date": "24 SEP 2025",
+        "date": "1919",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -996,7 +996,7 @@
       "surname": "DE LAS HERAS PRADALES",
       "sex": "F",
       "birth": {
-        "date": "16 AUG 2025"
+        "date": "about 14/12/19xx"
       },
       "death": {},
       "baptism": {},
@@ -1087,7 +1087,7 @@
       "sex": "F",
       "birth": {},
       "death": {
-        "date": "16 AUG 2025"
+        "date": "10 Oct 1915"
       },
       "baptism": {},
       "burial": {},
@@ -1121,7 +1121,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "29 Jan 2005",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -1403,7 +1403,7 @@
       "surname": "GONZÁLEZ DE LAS HERAS",
       "sex": "F",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "14 Apr 1934",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -1450,7 +1450,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "24 Jul 2014",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1496,7 +1496,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "28 Jan 2023",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -1543,7 +1543,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 AUG 2025",
+        "date": "01 Dec 2023",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1588,7 +1588,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 AUG 2025",
+        "date": "28 Oct 2014",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -1629,7 +1629,7 @@
       "surname": "GONZÁLEZ DE LAS HERAS",
       "sex": "M",
       "birth": {
-        "date": "16 AUG 2025",
+        "date": "13 Jun 1943",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -1678,7 +1678,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 AUG 2025",
+        "date": "15 Jun 2000",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -1802,7 +1802,7 @@
         "place": "Cartagena, Murcia (SPAIN)"
       },
       "death": {
-        "date": "16 AUG 2025",
+        "date": "14 Apr 2004",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -1878,7 +1878,7 @@
         "date": "1891"
       },
       "death": {
-        "date": "18 MAR 2026"
+        "date": "1983"
       },
       "baptism": {},
       "burial": {},
@@ -1976,7 +1976,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "16 AUG 2025",
+        "date": "26 Jul 2015",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2007,7 +2007,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "16 AUG 2025",
+        "date": "07/2004",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2034,8 +2034,7 @@
       "surname": "AGUADO HIDALGO",
       "sex": "F",
       "birth": {
-        "place": "Alcobendas, Madrid (SPAIN)",
-        "date": "14 SEP 2025"
+        "place": "Alcobendas, Madrid (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2076,8 +2075,7 @@
       "surname": "VACCHIANO VARGAS",
       "sex": "M",
       "birth": {
-        "place": "Úbeda, Jaén (SPAIN)",
-        "date": "14 SEP 2025"
+        "place": "Úbeda, Jaén (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2113,7 +2111,7 @@
         "place": "Barcelona (SPAIN)"
       },
       "death": {
-        "date": "14 SEP 2025",
+        "date": "01 Jan 2024",
         "place": "Barcelona (SPAIN)"
       },
       "baptism": {},
@@ -2160,7 +2158,7 @@
         "place": "Barcelona (SPAIN)"
       },
       "death": {
-        "date": "14 SEP 2025",
+        "date": "01 Dec 1997",
         "place": "Barcelona (SPAIN)"
       },
       "baptism": {},
@@ -2206,7 +2204,7 @@
         "place": "Jaén (SPAIN)"
       },
       "death": {
-        "date": "14 SEP 2025",
+        "date": "06 Apr 2019",
         "place": "Barcelona (SPAIN)"
       },
       "baptism": {},
@@ -2241,7 +2239,7 @@
       "surname": "PARREÑO LÓPEZ",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "24 Jul 1936",
         "place": "Cenizate, Albacete (SPAIN)"
       },
       "death": {},
@@ -2280,7 +2278,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "17 SEP 2025",
+        "date": "22 Jul 1981",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2362,7 +2360,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "15 SEP 2025",
+        "date": "16 Nov 1995",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2395,7 +2393,7 @@
       "surname": "AGUADO VILLAMAYOR",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "04 Jun 1953",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -2434,7 +2432,7 @@
       "surname": "AGUADO VILLAMAYOR",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "20 Jun 1956",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -2477,7 +2475,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "17 SEP 2025",
+        "date": "17 Apr 2010",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2509,7 +2507,7 @@
         "place": "Barcelona (SPAIN)"
       },
       "death": {
-        "date": "18 MAR 2026",
+        "date": "2001",
         "place": "Barcelona (SPAIN)"
       },
       "baptism": {},
@@ -2546,7 +2544,7 @@
         "place": "Barcelona (SPAIN)"
       },
       "death": {
-        "date": "18 MAR 2026",
+        "date": "23 Feb 2026",
         "place": "Barcelona (SPAIN)"
       },
       "baptism": {},
@@ -2575,7 +2573,7 @@
         "place": "Valencia (SPAIN)"
       },
       "death": {
-        "date": "12 SEP 2025",
+        "date": "18 Oct 2011",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2615,7 +2613,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "12 SEP 2025",
+        "date": "08 Feb 2013",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2654,7 +2652,7 @@
       "surname": "GONZÁLEZ DE LAS HERAS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "16 Jun 1940",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -2695,7 +2693,7 @@
       "surname": "GONZÁLEZ DE LAS HERAS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "14 Nov 1942",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -2735,7 +2733,7 @@
       "surname": "GONZÁLEZ DE LAS HERAS",
       "sex": "M",
       "birth": {
-        "date": "13 SEP 2025",
+        "date": "07 Mar 1952",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -2775,7 +2773,7 @@
       "surname": "SOLANO ZALOÑA",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "18 Feb 1937",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "death": {},
@@ -2809,7 +2807,7 @@
       "surname": "SOLANO GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "07 Jul 1967",
         "place": "Eibar, Gipuzkoa (SPAIN)"
       },
       "death": {},
@@ -2838,7 +2836,7 @@
       "surname": "SOLANO GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "07 Jun 1969",
         "place": "Eibar, Gipuzkoa (SPAIN)"
       },
       "death": {},
@@ -2867,7 +2865,7 @@
       "surname": "SOLANO GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "05 Feb 1974",
         "place": "Burgos (SPAIN)"
       },
       "death": {},
@@ -2900,7 +2898,7 @@
         "place": "Daimiel, Ciudad Real (SPAIN)"
       },
       "death": {
-        "date": "17 AUG 2025",
+        "date": "28 Dec 2017",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -2934,7 +2932,7 @@
       "surname": "MARTIN DE LA SIERRA GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "20 Jul 1973",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -2962,8 +2960,7 @@
       "surname": "MORENO",
       "sex": "M",
       "birth": {
-        "place": "Carrizosa, Ciudad Real (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Carrizosa, Ciudad Real (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2985,7 +2982,7 @@
       "surname": "MARTIN DE LA SIERRA GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "07 Jun 1975",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3023,7 +3020,7 @@
       "surname": "MORENO",
       "sex": "M",
       "birth": {
-        "date": "24 SEP 2025",
+        "date": "04 Feb 1971",
         "place": "Carrizosa, Ciudad Real (SPAIN)"
       },
       "death": {},
@@ -3056,7 +3053,7 @@
       "surname": "MORENO MARTIN DE LA SIERRA",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "24 Dec 2009",
         "place": "San Fernando de Henares, Madrid (SPAIN)"
       },
       "death": {},
@@ -3084,7 +3081,7 @@
       "surname": "MORENO MARTIN DE LA SIERRA",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "29 Sep 2011",
         "place": "San Fernando de Henares, Madrid (SPAIN)"
       },
       "death": {},
@@ -3112,7 +3109,7 @@
       "surname": "CARRASCO",
       "sex": "F",
       "birth": {
-        "date": "13 SEP 2025",
+        "date": "26 Sep 1959",
         "place": "Hornachos, Badajoz (SPAIN)"
       },
       "death": {},
@@ -3145,7 +3142,7 @@
       "surname": "GONZÁLEZ CARRASCO",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "01 Nov 1982",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3183,7 +3180,7 @@
       "surname": "GONZÁLEZ CARRASCO",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "01 Nov 1982",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3248,7 +3245,7 @@
       "surname": "",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "02 May 2015",
         "place": "Getafe, Madrid (SPAIN)"
       },
       "death": {},
@@ -3276,7 +3273,7 @@
       "surname": "",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "23 Aug 2017",
         "place": "Getafe, Madrid (SPAIN)"
       },
       "death": {},
@@ -3391,7 +3388,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "12 Jan 2014",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -3434,7 +3431,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "14 Apr 2023",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -3476,7 +3473,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "17 SEP 2025",
+        "date": "07/1947",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -3505,7 +3502,7 @@
       "surname": "HERVÁS DE LAS HERAS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "18 Aug 1948",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -3545,7 +3542,7 @@
       "surname": "HERVÁS DE LAS HERAS",
       "sex": "M",
       "birth": {
-        "date": "17 SEP 2025",
+        "date": "16 Dec 1962",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -3588,7 +3585,7 @@
         "place": "Villarreal de los Infantes, Castellón (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "05 Sep 2023",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -3619,7 +3616,7 @@
       "surname": "GARCÍA HERVÁS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "19 Apr 1979",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3655,7 +3652,7 @@
       "surname": "LUQUE RODRÍGUEZ",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "01 Aug 1975",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3688,7 +3685,7 @@
       "surname": "LUQUE GARCÍA",
       "sex": "F",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "10 Nov 2005",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3716,7 +3713,7 @@
       "surname": "LUQUE GARCÍA",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "11 Nov 2007",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3744,7 +3741,7 @@
       "surname": "CORDERO ESPINOSA",
       "sex": "F",
       "birth": {
-        "date": "17 SEP 2025",
+        "date": "02 Feb 1960",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "death": {},
@@ -3776,7 +3773,7 @@
       "surname": "VERA TEJEIRO",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "09 Mar 1948",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3809,7 +3806,7 @@
       "surname": "VERA HERVÁS",
       "sex": "F",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "26 Jun 1976",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3847,7 +3844,7 @@
       "surname": "VERA HERVÁS",
       "sex": "F",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "08 May 1985",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3885,7 +3882,7 @@
       "surname": "CALVO MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "03 Jun 1982",
         "place": "Ciudad Real (SPAIN)"
       },
       "death": {},
@@ -3918,7 +3915,7 @@
       "surname": "CALVO VERA",
       "sex": "F",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "06 Jul 2021",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -3946,7 +3943,7 @@
       "surname": "CALVO VERA",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "29 Oct 2023",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -4074,7 +4071,7 @@
       "surname": "SUÁREZ",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "27 Jun 1973",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -4107,7 +4104,7 @@
       "surname": "SUÁREZ VERA",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "20 Jun 2014",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -4135,7 +4132,7 @@
       "surname": "SUÁREZ VERA",
       "sex": "F",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "05 Nov 2018",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -4167,7 +4164,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "17 AUG 2025"
+        "date": "12/2024"
       },
       "baptism": {},
       "burial": {},
@@ -4227,7 +4224,7 @@
       "surname": "DE LAS HERAS DE ROA",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "20 Jun 1952",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4257,7 +4254,7 @@
       "surname": "DE LAS HERAS DE ROA",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "13 Aug 1954",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4287,7 +4284,7 @@
       "surname": "DE LAS HERAS DE ROA",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "1964",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4428,7 +4425,7 @@
       "surname": "RODRíGUEZ DE LAS HERAS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "10 Oct 1961",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4543,7 +4540,7 @@
       "surname": "DE LAS HERAS CABAÑAS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "23 Dec 1936",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4586,8 +4583,7 @@
       "surname": "ARROYO",
       "sex": "M",
       "birth": {
-        "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -4619,8 +4615,7 @@
       "surname": "ARROYO DE LAS HERAS",
       "sex": "M",
       "birth": {
-        "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -4647,7 +4642,7 @@
       "surname": "ARROYO DE LAS HERAS",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "10 Sep 1964",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4679,7 +4674,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "17 AUG 2025"
+        "date": "2020"
       },
       "baptism": {},
       "burial": {},
@@ -4750,7 +4745,7 @@
       "surname": "DE LAS HERAS CABAÑAS",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "1948",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -4797,7 +4792,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "27 Jun 2014",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -4839,8 +4834,7 @@
       "surname": "DE LAS HERAS CABAÑAS",
       "sex": "M",
       "birth": {
-        "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -5101,7 +5095,7 @@
         "place": "Burgos (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "02 Feb 2006",
         "place": "Burgos (SPAIN)"
       },
       "baptism": {},
@@ -5183,8 +5177,7 @@
       "surname": "RODRÍGUEZ",
       "sex": "M",
       "birth": {
-        "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -5216,7 +5209,7 @@
       "surname": "RODRÍGUEZ GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "24 Aug 1958",
         "place": "Oviedo (SPAIN)"
       },
       "death": {},
@@ -5278,7 +5271,7 @@
       "surname": "RODRÍGUEZ GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025"
+        "date": "10/1956"
       },
       "death": {},
       "baptism": {},
@@ -5396,7 +5389,7 @@
       "surname": "GONZÁLEZ PINTADO",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "01 Jan 1962",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -5434,7 +5427,7 @@
       "surname": "GONZÁLEZ PINTADO",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "14 Sep 1964",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -5462,8 +5455,7 @@
       "surname": "DE ROA",
       "sex": "M",
       "birth": {
-        "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -5495,7 +5487,7 @@
       "surname": "DE ROA GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "14 Nov 1990",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "death": {},
@@ -5523,8 +5515,7 @@
       "surname": "DE ROA GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "place": "Aranda de Duero, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -5581,7 +5572,7 @@
       "surname": "GONZÁLEZ LOPEZ",
       "sex": "M",
       "birth": {
-        "date": "25 SEP 2025",
+        "date": "07 Sep 1980",
         "place": "Cervo, Lugo (SPAIN)"
       },
       "death": {},
@@ -5644,8 +5635,7 @@
       "surname": "GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "place": "VENEZUELA",
-        "date": "25 SEP 2025"
+        "place": "VENEZUELA"
       },
       "death": {},
       "baptism": {},
@@ -5677,7 +5667,7 @@
       "surname": "LÁZARO",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "1946",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -5712,7 +5702,7 @@
       "surname": "GONZÁLEZ LÁZARO",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "04/1970",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -5806,7 +5796,7 @@
       "surname": "GONZÁLEZ LÁZARO",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "14 May 1982",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -5866,7 +5856,7 @@
       "surname": "",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025"
+        "date": "09 Nov 2014"
       },
       "death": {},
       "baptism": {},
@@ -5918,7 +5908,7 @@
       "surname": "GONZÁLEZ GARCÍA",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "28 Aug 1934",
         "place": "Campillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -5956,7 +5946,7 @@
       "surname": "GONZÁLEZ GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "19 Dec 1971",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -5991,7 +5981,7 @@
       "surname": "MERINO MANZANO",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025"
+        "date": "20 Jul 1970"
       },
       "death": {},
       "baptism": {},
@@ -6045,8 +6035,7 @@
       "surname": "SUALDEA",
       "sex": "F",
       "birth": {
-        "place": "Fuentemolinos, Burgos (SPAIN)",
-        "date": "17 AUG 2025"
+        "place": "Fuentemolinos, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -6077,7 +6066,7 @@
       "surname": "GONZÁLEZ SUALDEA",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "05 Jul 1979",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "death": {},
@@ -6103,7 +6092,7 @@
       "surname": "GUIJARRO SENDINO",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "03 Jun 1925",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -6137,7 +6126,7 @@
       "surname": "GUIJARRO GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "10 Mar 1962",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6177,7 +6166,7 @@
       "surname": "GUIJARRO GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "07 Jun 1965",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6216,7 +6205,7 @@
       "surname": "GUIJARRO GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "14 Mar 1970",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6255,7 +6244,7 @@
       "surname": "HUERTAS",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "29 Dec 1960",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6289,7 +6278,7 @@
       "surname": "HUERTAS GUIJARRO",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "06 Jun 1994",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6318,7 +6307,7 @@
       "surname": "HUERTAS GUIJARRO",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "24 Jul 1996",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6347,7 +6336,7 @@
       "surname": "HUERTAS GUIJARRO",
       "sex": "M",
       "birth": {
-        "date": "25 SEP 2025",
+        "date": "25 Sep 1999",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6376,7 +6365,7 @@
       "surname": "GÓMEZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026"
+        "date": "24 Aug 1967"
       },
       "death": {},
       "baptism": {},
@@ -6408,7 +6397,7 @@
       "surname": "GUIJARRO GÓMEZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "28 Aug 1997",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6436,7 +6425,7 @@
       "surname": "GUIJARRO GÓMEZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "10 Jul 1999",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6464,7 +6453,7 @@
       "surname": "DE LA CRUZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025"
+        "date": "09 Sep 1976"
       },
       "death": {},
       "baptism": {},
@@ -6496,7 +6485,7 @@
       "surname": "GUIJARRO DE LA CRUZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "13 Mar 2007",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6524,7 +6513,7 @@
       "surname": "GUIJARRO DE LA CRUZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "14 Dec 2009",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -6552,7 +6541,7 @@
       "surname": "PARREÑO VACCHIANO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "22 Nov 1968",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6592,7 +6581,7 @@
       "surname": "PARREÑO VACCHIANO",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "15 Dec 1971",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6622,7 +6611,7 @@
       "surname": "PARREÑO VACCHIANO",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "03 Jan 1975",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6663,7 +6652,7 @@
       "surname": "PARREÑO VACCHIANO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "06 Aug 1977",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6703,7 +6692,7 @@
       "surname": "BARGALLÓ PARAIRA",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "14 Dec 1970",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6736,7 +6725,7 @@
       "surname": "ANTÓN BRIONES",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "18 May 1975",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6770,7 +6759,7 @@
       "surname": "SÁNCHEZ GIL",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "14 May 1973",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6803,7 +6792,7 @@
       "surname": "MARTINEZ VACCHIANO",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "31 May 1963",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6844,7 +6833,7 @@
       "surname": "LÓPEZ SÁNCHEZ",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "11 Apr 1963",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6877,7 +6866,7 @@
       "surname": "LÓPEZ MARTÍNEZ",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "20 Apr 1995",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6905,7 +6894,7 @@
       "surname": "LÓPEZ MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "16 Jul 1997",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6933,7 +6922,7 @@
       "surname": "MARTINEZ VACCHIANO",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "03 Oct 1964",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -6978,7 +6967,7 @@
       "surname": "MADRID FUERTES",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "19 Apr 1968",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -7010,7 +6999,7 @@
       "surname": "TITO QUESADA",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "04 Jan 1966",
         "place": "Lima (PERU)"
       },
       "death": {},
@@ -7040,7 +7029,7 @@
       "surname": "VACCHIANO MADRID",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "22 Oct 2005",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -7066,7 +7055,7 @@
       "surname": "MARTINEZ VACCHIANO",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "09 Dec 1967",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -7106,7 +7095,7 @@
       "surname": "BAEZA LÓPEZ",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "17 Mar 1967",
         "place": "Frankfurt (GERMANY)"
       },
       "death": {},
@@ -7138,7 +7127,7 @@
       "surname": "MARTÍNEZ BAEZA",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "19 Apr 2001",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -7164,7 +7153,7 @@
       "surname": "MARTINEZ VACCHIANO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "04 Dec 1972",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -7206,7 +7195,7 @@
       "sex": "M",
       "birth": {
         "place": "Barcelona (SPAIN)",
-        "date": "14 SEP 2025"
+        "date": "31 May 1972"
       },
       "death": {},
       "baptism": {},
@@ -7238,7 +7227,7 @@
       "surname": "VÁLLEZ MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "17 Jul 2012",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -7270,7 +7259,7 @@
         "place": "Barcelona (SPAIN)"
       },
       "death": {
-        "date": "14 SEP 2025",
+        "date": "02 Jan 1971",
         "place": "Barcelona (SPAIN)"
       },
       "baptism": {},
@@ -7333,7 +7322,7 @@
       "surname": "GONZÁLEZ GUIJARRO",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "07 Jul 1949",
         "place": "Burgos (SPAIN)"
       },
       "death": {},
@@ -7361,7 +7350,7 @@
       "surname": "GONZÁLEZ GUIJARRO",
       "sex": "F",
       "birth": {
-        "date": "30 DEC 2025",
+        "date": "20 Mar 1951",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -7454,7 +7443,7 @@
       "surname": "PLAZA GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025",
+        "date": "23 Dec 1981",
         "place": "Aranda de Duero, Burgos (SPAIN)"
       },
       "death": {},
@@ -7671,7 +7660,7 @@
       "surname": "BAJO GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "17 AUG 2025"
+        "date": "02 Aug 1952"
       },
       "death": {},
       "baptism": {},
@@ -8355,7 +8344,7 @@
       "surname": "GARCÍA CARBONELL",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "27 Apr 1956",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8391,7 +8380,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "12 SEP 2025",
+        "date": "28 Oct 2012",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -8432,7 +8421,7 @@
       "surname": "LIÉBANAS MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "22 Apr 1946",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8465,7 +8454,7 @@
       "surname": "LIÉBANAS GARCÍA",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "08 Feb 1980",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8502,7 +8491,7 @@
       "surname": "LIÉBANAS GARCÍA",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "08 Feb 1980",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8559,7 +8548,7 @@
       "surname": "LIÉBANAS RODRÍGUEZ",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "28 Mar 2010",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8585,7 +8574,7 @@
       "surname": "GARCÍA-HERRERO CARBONELL",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "10 Oct 1959",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8628,7 +8617,7 @@
       "surname": "CASERO BLANCO",
       "sex": "F",
       "birth": {
-        "date": "26 AUG 2025",
+        "date": "09 Apr 1959",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8662,7 +8651,7 @@
       "surname": "GARCÍA-HERRERO CASERO",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "30 Oct 1996",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8691,7 +8680,7 @@
       "surname": "GARCÍA-HERRERO CASERO",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "28 Sep 1998",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8720,7 +8709,7 @@
       "surname": "GARCÍA CARBONELL",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "31 Dec 1957",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8762,7 +8751,7 @@
       "surname": "DÍEZ MACÍAS",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025"
+        "date": "04 Sep 1958"
       },
       "death": {},
       "baptism": {},
@@ -8794,7 +8783,7 @@
       "surname": "GARCÍA DÍEZ",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "02 Oct 1990",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8822,7 +8811,7 @@
       "surname": "GARCÍA DÍEZ",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "26 Apr 1999",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8850,7 +8839,7 @@
       "surname": "GARCÍA CARBONELL",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "22 Aug 1964",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -8892,7 +8881,7 @@
       "surname": "CASTILLA NEGRETE",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025"
+        "date": "29 Nov 1961"
       },
       "death": {},
       "baptism": {},
@@ -8924,7 +8913,7 @@
       "surname": "GARCÍA CASTILLA",
       "sex": "F",
       "birth": {
-        "date": "12 SEP 2025"
+        "date": "05 May 1996"
       },
       "death": {},
       "baptism": {},
@@ -8951,7 +8940,7 @@
       "surname": "GARCÍA CASTILLA",
       "sex": "M",
       "birth": {
-        "date": "17 AUG 2025"
+        "date": "02 Apr 1998"
       },
       "death": {},
       "baptism": {},
@@ -8982,7 +8971,7 @@
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "21 SEP 2025",
+        "date": "2023",
         "place": "A Coruña (SPAIN)"
       },
       "baptism": {},
@@ -9025,7 +9014,7 @@
       "surname": "RUBIO MAQUIEIRA",
       "sex": "F",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "25 Nov 1940",
         "place": "Porráns, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9061,7 +9050,7 @@
       "surname": "MOREIRA RUBIO",
       "sex": "M",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "04 Nov 1969",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9096,7 +9085,7 @@
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "21 SEP 2025"
+        "date": "03/03 /1980"
       },
       "baptism": {},
       "burial": {},
@@ -9125,7 +9114,7 @@
       "surname": "MOREIRA RUBIO",
       "sex": "F",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "30 Jul 1973",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9166,7 +9155,7 @@
       "surname": "MOREIRA RUBIO",
       "sex": "M",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "09 Jan 1981",
         "place": "Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9197,7 +9186,7 @@
       "surname": "MOREIRA RUBIO",
       "sex": "F",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "06 Jul 1983",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9233,7 +9222,7 @@
       "surname": "",
       "sex": "M",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "07 Aug 2014",
         "place": "Vilagarcía de Arousa, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9260,7 +9249,7 @@
       "surname": "",
       "sex": "M",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "22 Apr 2002",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9285,7 +9274,7 @@
       "surname": "MOREIRA VICENTE",
       "sex": "M",
       "birth": {
-        "date": "13 SEP 2025",
+        "date": "07 Jan 1947",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {},
@@ -9356,7 +9345,7 @@
       "surname": "MOREIRA GIRALDO",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "about 1975",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -9427,7 +9416,7 @@
       "surname": "MOREIRA",
       "sex": "F",
       "birth": {
-        "date": "24 JAN 2026",
+        "date": "25 Jan 2012",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -9505,7 +9494,7 @@
       "surname": "MOREIRA GIRALDO",
       "sex": "M",
       "birth": {
-        "date": "12 SEP 2025",
+        "date": "18 Mar 1984",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -9537,7 +9526,7 @@
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "2023",
         "place": "Santiago de Compostela, A Coruña (Spain)"
       },
       "baptism": {},
@@ -9574,7 +9563,7 @@
       "surname": "PEREZ VILARIÑO",
       "sex": "M",
       "birth": {
-        "date": "13 SEP 2025",
+        "date": "30 Jul 1938",
         "place": "Ferreira de Panton, Lugo (SPAIN)"
       },
       "death": {},
@@ -9608,7 +9597,7 @@
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "24 SEP 2025",
+        "date": "2002",
         "place": "Vigo, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -9759,7 +9748,7 @@
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "13 SEP 2025",
+        "date": "1972",
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -9798,7 +9787,7 @@
         "place": "Galicia (Spain)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "1944",
         "place": "Galicia (Spain)"
       },
       "baptism": {},
@@ -9832,7 +9821,7 @@
         "place": "Galicia (Spain)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "1993",
         "place": "Galicia (Spain)"
       },
       "baptism": {},
@@ -9866,7 +9855,7 @@
         "place": "Galicia (Spain)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "2012",
         "place": "Galicia (Spain)"
       },
       "baptism": {},
@@ -9900,7 +9889,7 @@
         "place": "Galicia (Spain)"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "1965",
         "place": "Galicia (Spain)"
       },
       "baptism": {},
@@ -9934,7 +9923,7 @@
         "place": "Portugal"
       },
       "death": {
-        "date": "16 SEP 2025",
+        "date": "1971",
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -9973,7 +9962,7 @@
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "13 SEP 2025",
+        "date": "1948",
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -10011,7 +10000,7 @@
         "date": "1903"
       },
       "death": {
-        "date": "26 AUG 2025"
+        "date": "1967"
       },
       "baptism": {},
       "burial": {},
@@ -10043,7 +10032,7 @@
         "date": "1908"
       },
       "death": {
-        "date": "18 AUG 2025"
+        "date": "1995"
       },
       "baptism": {},
       "burial": {},
@@ -10075,7 +10064,7 @@
         "date": "1906"
       },
       "death": {
-        "date": "18 AUG 2025"
+        "date": "1980"
       },
       "baptism": {},
       "burial": {},
@@ -10107,7 +10096,7 @@
         "date": "1913"
       },
       "death": {
-        "date": "26 AUG 2025"
+        "date": "1992"
       },
       "baptism": {},
       "burial": {},
@@ -10140,7 +10129,7 @@
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "death": {
-        "date": "13 SEP 2025",
+        "date": "1948",
         "place": "A Guarda, Pontevedra (SPAIN)"
       },
       "baptism": {},
@@ -10179,7 +10168,7 @@
         "place": "Limés, Asturias (SPAIN)"
       },
       "death": {
-        "date": "26 AUG 2025",
+        "date": "1968",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -10216,7 +10205,7 @@
         "place": "Madrid (SPAIN)"
       },
       "death": {
-        "date": "26 AUG 2025",
+        "date": "1970",
         "place": "Madrid (SPAIN)"
       },
       "baptism": {},
@@ -10247,7 +10236,7 @@
       "surname": "GARCÍA DE LA BRAÑA AGUDÍN",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1859",
         "place": "Limés, Asturias (SPAIN)"
       },
       "death": {},
@@ -10282,7 +10271,7 @@
       "surname": "ÁLVAREZ SUÁREZ",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1856",
         "place": "Araniego, Asturias (SPAIN)"
       },
       "death": {},
@@ -10314,7 +10303,7 @@
       "surname": "GARCÍA DE LA BRAÑA GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1831",
         "place": "Limés, Asturias (SPAIN)"
       },
       "death": {},
@@ -10349,8 +10338,7 @@
       "surname": "GONZÁLEZ GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "place": "Limés, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Limés, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10381,7 +10369,7 @@
       "surname": "AGUDÍN GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1835",
         "place": "Limés, Asturias (SPAIN)"
       },
       "death": {},
@@ -10413,7 +10401,7 @@
       "surname": "GARCÍA DE LA BRAÑA CUERVO",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1796",
         "place": "Limés, Asturias (SPAIN)"
       },
       "death": {},
@@ -10448,8 +10436,7 @@
       "surname": "GARCÍA DE LA BRAÑA Y NUÑEZ DE PRESNO",
       "sex": "M",
       "birth": {
-        "place": "Penadecabras, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Penadecabras, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10483,8 +10470,7 @@
       "surname": "GARCÍA DE LEBREDO Y CUERVO CASTRILLÓN",
       "sex": "F",
       "birth": {
-        "place": "Andía, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Andía, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10518,8 +10504,7 @@
       "surname": "GARCÍA DE LA BRAÑA Y FERNÁNDEZ DE VILLAMARZO",
       "sex": "M",
       "birth": {
-        "place": "Penadecabras, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Penadecabras, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10582,8 +10567,7 @@
       "surname": "GARCÏA DE LA BRAÑA MENDEZ",
       "sex": "M",
       "birth": {
-        "place": "Penadecabras, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Penadecabras, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10646,8 +10630,7 @@
       "surname": "GARCÍA DE LA BRAÑA FERNÁNDEZ",
       "sex": "M",
       "birth": {
-        "place": "Penadecabras, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Penadecabras, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10710,8 +10693,7 @@
       "surname": "GARCÍA DE LA BRAÑA",
       "sex": "M",
       "birth": {
-        "place": "Penadecabras, Asturias (SPAIN)",
-        "date": "11 SEP 2025"
+        "place": "Penadecabras, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10835,7 +10817,7 @@
       "surname": "OLCINA",
       "sex": "M",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "08 Feb 1968",
         "place": "Valencia (SPAIN)"
       },
       "death": {},
@@ -10865,7 +10847,7 @@
       "surname": "",
       "sex": "F",
       "birth": {
-        "date": "21 SEP 2025",
+        "date": "14 Jun 2018",
         "place": "Pontevedra (SPAIN)"
       },
       "death": {},
@@ -10892,8 +10874,7 @@
       "surname": "GARCÍA DE LEBREDO Y CUERVO CASTRILLÓN",
       "sex": "M",
       "birth": {
-        "place": "Andía, Asturias (SPAIN)",
-        "date": "13 SEP 2025"
+        "place": "Andía, Asturias (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -10926,9 +10907,7 @@
       "givenName": "Rosa",
       "surname": "FERNÁNDEZ VALLEDOR Y FERNÁNDEZ DE GRADAMARINA",
       "sex": "F",
-      "birth": {
-        "date": "13 SEP 2025"
-      },
+      "birth": {},
       "death": {},
       "baptism": {},
       "burial": {},
@@ -10961,8 +10940,7 @@
       "surname": "MÉNDEZ Y FERNÁNDEZ DE VILLALMARZO Y SANJULIÁN",
       "sex": "F",
       "birth": {
-        "place": "Abelleira, A Coruña (SPAIN)",
-        "date": "13 SEP 2025"
+        "place": "Abelleira, A Coruña (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -11054,7 +11032,7 @@
       "surname": "GARCÍA DE LEBREDO CUERVO Y CASTRILLÓN",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1695",
         "place": "Andía, Asturias (SPAIN)"
       },
       "death": {},
@@ -11089,7 +11067,7 @@
       "surname": "FERNÁNDEZ DE GRANDAMARINA Y MÉNDEZ DE LOZA",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1670",
         "place": "Abelleira, A Coruña (SPAIN)"
       },
       "death": {},
@@ -11124,7 +11102,7 @@
       "surname": "FERNÁNDEZ VALLEDOR",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025"
+        "date": "about 1670"
       },
       "death": {},
       "baptism": {},
@@ -11274,7 +11252,7 @@
       "surname": "GARCÍA DE LEBREDO Y CUERVO CASTRILLÓN",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "about 1660",
         "place": "Andía, Asturias (SPAIN)"
       },
       "death": {},
@@ -11337,7 +11315,7 @@
       "surname": "GARCÍA DE LEBREDO Y CUERVO CASTRILLÓN",
       "sex": "M",
       "birth": {
-        "date": "13 SEP 2025"
+        "date": "1625"
       },
       "death": {},
       "baptism": {},
@@ -11363,7 +11341,7 @@
       "surname": "GARCÍA-HERRERO CASERO",
       "sex": "M",
       "birth": {
-        "date": "13 SEP 2025",
+        "date": "22 Dec 1991",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11392,7 +11370,7 @@
       "surname": "RODRíGUEZ MORALES",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "18 Apr 1954",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11425,7 +11403,7 @@
       "surname": "AGUADO RODRÍGUEZ",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "23 Nov 1982",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11463,7 +11441,7 @@
       "surname": "AGUADO RODRÍGUEZ",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "07 Oct 1985",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11501,7 +11479,7 @@
       "surname": "GONZÁLEZ CIDONCHA",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "04 Nov 1981",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11534,7 +11512,7 @@
       "surname": "GONZÁLEZ AGUADO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "11 Apr 2016",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11562,7 +11540,7 @@
       "surname": "GONZÁLEZ AGUADO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "12 Jul 2020",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11590,7 +11568,7 @@
       "surname": "MARTÍN FERNÁNDEZ",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "15 Oct 1982",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11623,7 +11601,7 @@
       "surname": "AGUADO MARTÍN",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "29 Jun 2013",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11651,7 +11629,7 @@
       "surname": "AGUADO MARTÍN",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "23 Nov 2016",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11679,7 +11657,7 @@
       "surname": "PARREÑO ANTÓN",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "02 Jan 2005",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11708,7 +11686,7 @@
       "surname": "PARREÑO ANTÓN",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "08 Jan 2008",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11737,7 +11715,7 @@
       "surname": "PARREÑO ANTÓN",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "22 Sep 2012",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11766,7 +11744,7 @@
       "surname": "SÁNCHEZ PARREÑO",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "27 Jun 2013",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11794,7 +11772,7 @@
       "surname": "SÁNCHEZ PARREÑO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "06 Apr 2016",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11822,7 +11800,7 @@
       "surname": "VÁLLEZ MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "01 Oct 2009",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11850,7 +11828,7 @@
       "surname": "BARGALLÓ PARREÑO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "19 Oct 2002",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11878,7 +11856,7 @@
       "surname": "BARGALLÓ PARREÑO",
       "sex": "F",
       "birth": {
-        "date": "14 SEP 2025",
+        "date": "31 May 2006",
         "place": "Barcelona (SPAIN)"
       },
       "death": {},
@@ -11906,7 +11884,7 @@
       "surname": "CABALLERO LÓPEZ",
       "sex": "M",
       "birth": {
-        "date": "16 SEP 2025",
+        "date": "18 Jan 1955",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11939,7 +11917,7 @@
       "surname": "CABALLERO AGUADO",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "02 Feb 1981",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -11976,7 +11954,7 @@
       "surname": "ZURDO ALGARA",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "06 Aug 1978",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12008,7 +11986,7 @@
       "surname": "ZURDO CABALLERO",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "02 Feb 2012",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12034,7 +12012,7 @@
       "surname": "CABALLERO AGUADO",
       "sex": "F",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "12 Jan 1984",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12073,7 +12051,7 @@
       "surname": "MATEO GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "07 May 1983",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12107,7 +12085,7 @@
       "surname": "MATEO CABALLERO",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "22 Apr 2015",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12136,7 +12114,7 @@
       "surname": "MATEO CABALLERO",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "18 Jun 2019",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12165,7 +12143,7 @@
       "surname": "MATEO CABALLERO",
       "sex": "M",
       "birth": {
-        "date": "15 SEP 2025",
+        "date": "10 Oct 2022",
         "place": "Madrid (SPAIN)"
       },
       "death": {},
@@ -12194,7 +12172,7 @@
       "surname": "HERVÁS CORDERO",
       "sex": "F",
       "birth": {
-        "date": "17 SEP 2025",
+        "date": "27 Jul 2004",
         "place": "RUSSIA"
       },
       "death": {},
@@ -12273,7 +12251,7 @@
       "surname": "GONZÁLEZ GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "25 SEP 2025"
+        "date": "02 Jan 2024"
       },
       "death": {},
       "baptism": {},
@@ -12300,7 +12278,7 @@
       "surname": "GONZÁLEZ GONZÁLEZ",
       "sex": "M",
       "birth": {
-        "date": "25 SEP 2025"
+        "date": "19 Sep 2025"
       },
       "death": {},
       "baptism": {},
@@ -12385,7 +12363,7 @@
         "date": "1875"
       },
       "death": {
-        "date": "18 MAR 2026"
+        "date": "1957"
       },
       "baptism": {},
       "burial": {},
@@ -12414,7 +12392,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "08 Aug 1964",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -12452,7 +12430,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "13 Mar 1935",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -12490,7 +12468,7 @@
         "place": "La Sequera, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "07 Aug 1971",
         "place": "La Sequera, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -12525,7 +12503,7 @@
         "place": "Hontangas, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "02/1977",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -12560,7 +12538,7 @@
         "place": "Fontioso/Granja de Guimara, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "1918",
         "place": "Fontioso/Granja de Guimara, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -12598,7 +12576,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025"
+        "date": "1919"
       },
       "baptism": {},
       "burial": {},
@@ -12635,7 +12613,7 @@
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "1891",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -12669,7 +12647,7 @@
       "surname": "PINTADO PASCUAL",
       "sex": "F",
       "birth": {
-        "date": "30 DEC 2025",
+        "date": "24 Oct 1827",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -12704,7 +12682,7 @@
       "surname": "GONZÁLEZ IGUERA",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 1765",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -12739,7 +12717,7 @@
       "surname": "REVILLA SANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 1775",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -12774,7 +12752,7 @@
       "surname": "GONZÁLEZ SOBRINO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "20 Feb 1749",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -12809,7 +12787,7 @@
       "surname": "IGUERA ACINAS",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1750",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -12844,7 +12822,7 @@
       "surname": "REVILLA BERNAL",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 05/1758",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -12879,7 +12857,7 @@
       "surname": "SANZ JUARROS",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "18 Sep 1754",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -12915,7 +12893,7 @@
       "sex": "M",
       "birth": {
         "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "date": "04 Jun 1799"
       },
       "death": {},
       "baptism": {},
@@ -12949,7 +12927,7 @@
       "surname": "PASCUAL GARCÍA",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "17 Dec 1809",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -12984,7 +12962,7 @@
       "surname": "PINTADO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "30 Dec 1767",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -13016,8 +12994,7 @@
       "surname": "MOLINOS GAONA",
       "sex": "F",
       "birth": {
-        "place": "Tórtoles, Ávila (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "Tórtoles, Ávila (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -13048,7 +13025,7 @@
       "surname": "PASCUAL CANO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 1770",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -13080,8 +13057,7 @@
       "surname": "GARCÍA MAMBRILLA",
       "sex": "F",
       "birth": {
-        "place": "La Horra, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "La Horra, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -13112,7 +13088,7 @@
       "surname": "PEÑA ESTEBAN",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "23 Mar 1828",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -13147,7 +13123,7 @@
       "surname": "MAYOR BAJO",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "21 Nov 1831",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -13185,7 +13161,7 @@
         "date": "07 Dec 1796"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "15 Apr 1869",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -13220,7 +13196,7 @@
       "sex": "F",
       "birth": {
         "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "date": "27 Nov 1800"
       },
       "death": {},
       "baptism": {},
@@ -13254,7 +13230,7 @@
       "surname": "PEÑA CARRASCO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "04 Jan 1757",
         "place": "Castrojimeno, Segovia (SPAIN)"
       },
       "death": {},
@@ -13287,7 +13263,7 @@
       "sex": "F",
       "birth": {
         "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "date": "26 Jul 1764"
       },
       "death": {},
       "baptism": {},
@@ -13318,7 +13294,7 @@
       "surname": "ESTEBAN PALOMINO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "03 Apr 1774",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -13350,7 +13326,7 @@
       "surname": "PÉREZ DE LA HORRA",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1768",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -13386,7 +13362,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "31 Dec 1877",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -13427,7 +13403,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026"
+        "date": "13 Sep 1878"
       },
       "baptism": {},
       "burial": {},
@@ -13461,7 +13437,7 @@
       "surname": "MAYOR ARRANZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "23 Mar 1746",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -13493,7 +13469,7 @@
       "surname": "GUIJARRO GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "25 Mar 1752",
         "place": "Hontangas, Burgos (SPAIN)"
       },
       "death": {},
@@ -13525,8 +13501,7 @@
       "surname": "BAJO CUESTA",
       "sex": "M",
       "birth": {
-        "place": "La Sequera de Haza, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -13557,7 +13532,7 @@
       "surname": "ADRADOS ARRANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "06 Jul 1760",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -13593,7 +13568,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "07 Mar 1933",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -13631,7 +13606,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "22 Aug 1880",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -13669,7 +13644,7 @@
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "13 Jun 1884",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -13707,7 +13682,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "26 Aug 1886",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -13743,7 +13718,7 @@
       "surname": "ZUÑIGA IRIBARREN",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "20/07/179",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -13778,7 +13753,7 @@
       "surname": "ZÚÑIGA FERNÁNDEZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "28 Mar 1751",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -13810,7 +13785,7 @@
       "surname": "GARCÍA PECHARROMÁN",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "13 Mar 1799",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -13845,8 +13820,7 @@
       "surname": "IRIBARREN AGUILAR",
       "sex": "F",
       "birth": {
-        "place": "Coruña del Conde, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "Coruña del Conde, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -13877,7 +13851,7 @@
       "surname": "GARCÍA DEL HIERRO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "10 Apr 1751",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -13909,8 +13883,7 @@
       "surname": "PECHARROMÁN DE DIEGO",
       "sex": "F",
       "birth": {
-        "place": "Fuentenebro, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "Fuentenebro, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -13941,7 +13914,7 @@
       "surname": "ARROYO RINCÓN",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1820",
         "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
@@ -13976,7 +13949,7 @@
       "surname": "PLAZA MAYOR",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "29 Jun 1821",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -14011,7 +13984,7 @@
       "surname": "ARROYO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1800",
         "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
@@ -14043,8 +14016,7 @@
       "surname": "RINCÓN",
       "sex": "F",
       "birth": {
-        "place": "La Sequera de Haza, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14079,7 +14051,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "22 Jul 1806",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -14113,7 +14085,7 @@
       "surname": "MAYOR SANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "06 May 1784",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -14148,7 +14120,7 @@
       "surname": "PLAZA MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "08 Mar 1750",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -14180,7 +14152,7 @@
       "surname": "MAYOR ARRANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "26 Jun 1749",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -14212,7 +14184,7 @@
       "surname": "MAYOR ARRANZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1756",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -14244,7 +14216,7 @@
       "surname": "SANZ LÁZARO",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "18 Jun 1765",
         "place": "Hontangas, Burgos (SPAIN)"
       },
       "death": {},
@@ -14276,7 +14248,7 @@
       "surname": "GONZÁLEZ LÓPEZ",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "02 Jun 1711",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14311,8 +14283,7 @@
       "surname": "SOBRINO HERASO",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14346,7 +14317,7 @@
       "surname": "GONZÁLEZ ARRIAGA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1680",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14381,8 +14352,7 @@
       "surname": "LÓPEZ RUIZ",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14416,7 +14386,7 @@
       "surname": "GONZÁLEZ GIL",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "09 Sep 1646",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14451,8 +14421,7 @@
       "surname": "ARRIAGA",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14483,7 +14452,7 @@
       "surname": "GONZÁLEZ MORENO",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "26 Aug 1621",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14515,8 +14484,7 @@
       "surname": "GIL",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14547,8 +14515,7 @@
       "surname": "LÓPEZ",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14579,8 +14546,7 @@
       "surname": "RUIZ",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14611,7 +14577,7 @@
       "surname": "SOBRINO",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1686",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14643,7 +14609,7 @@
       "surname": "HERASO CASTRO",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1686",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14678,8 +14644,7 @@
       "surname": "ERAXO (HERASO)",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14710,8 +14675,7 @@
       "surname": "CASTRO",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14742,7 +14706,7 @@
       "surname": "IGUERA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1725",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14774,8 +14738,7 @@
       "surname": "ACINAS",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14806,7 +14769,7 @@
       "surname": "BEMAL DEL AMO",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1719",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -14841,7 +14804,7 @@
       "surname": "REVILLA COB",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1730",
         "place": "Nebreda, Burgos (SPAIN)"
       },
       "death": {},
@@ -14876,7 +14839,7 @@
       "surname": "REVILLA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "about 1700",
         "place": "Nebreda, Burgos (SPAIN)"
       },
       "death": {},
@@ -14908,8 +14871,7 @@
       "surname": "COB",
       "sex": "F",
       "birth": {
-        "place": "Nebreda, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Nebreda, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -14940,7 +14902,7 @@
       "surname": "BEMAL JUNCA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "about 1685",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -15123,7 +15085,7 @@
       "surname": "SANZ ORTIGÜELA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "20 Nov 1722",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -15155,7 +15117,7 @@
       "surname": "JUARROS VILLALBA",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "10 Sep 1724",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -15190,7 +15152,7 @@
       "surname": "JUARROS VARGAS",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "08 Sep 1686",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -15225,8 +15187,7 @@
       "surname": "VILLALBA DE LA VARGA",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -15260,8 +15221,7 @@
       "surname": "JUARROS",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -15292,8 +15252,7 @@
       "surname": "VARGAS",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -15324,8 +15283,7 @@
       "surname": "VILLALBA",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -15356,8 +15314,7 @@
       "surname": "DE LA VARGA",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},

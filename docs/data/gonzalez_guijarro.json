@@ -6,8 +6,8 @@
   "individualsCount": 92,
   "familiesCount": 47,
   "stats": {
-    "minYear": 1777,
-    "maxYear": 2026,
+    "minYear": 1621,
+    "maxYear": 1977,
     "topSurnames": [
       [
         "MAYOR ARRANZ",
@@ -85,7 +85,7 @@
       "surname": "GONZÁLEZ GUIJARRO",
       "sex": "F",
       "birth": {
-        "date": "30 DEC 2025",
+        "date": "07 Jul 1949",
         "place": "Burgos (SPAIN)"
       },
       "death": {},
@@ -150,7 +150,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "08 Aug 1964",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -221,7 +221,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "13 Mar 1935",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -259,7 +259,7 @@
         "place": "La Sequera, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "07 Aug 1971",
         "place": "La Sequera, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -294,7 +294,7 @@
         "place": "Hontangas, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "02/1977",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -325,7 +325,7 @@
       "surname": "GONZÁLEZ GUIJARRO",
       "sex": "F",
       "birth": {
-        "date": "30 DEC 2025",
+        "date": "20 Mar 1951",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -357,7 +357,7 @@
         "place": "Fontioso/Granja de Guimara, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "1918",
         "place": "Fontioso/Granja de Guimara, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -395,7 +395,7 @@
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025"
+        "date": "1919"
       },
       "baptism": {},
       "burial": {},
@@ -432,7 +432,7 @@
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {
-        "date": "30 DEC 2025",
+        "date": "1891",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -466,7 +466,7 @@
       "surname": "PINTADO PASCUAL",
       "sex": "F",
       "birth": {
-        "date": "30 DEC 2025",
+        "date": "24 Oct 1827",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -501,7 +501,7 @@
       "surname": "GONZÁLEZ IGUERA",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 1765",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -536,7 +536,7 @@
       "surname": "REVILLA SANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 1775",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -571,7 +571,7 @@
       "surname": "GONZÁLEZ SOBRINO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "20 Feb 1749",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -606,7 +606,7 @@
       "surname": "IGUERA ACINAS",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1750",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -641,7 +641,7 @@
       "surname": "REVILLA BERNAL",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 05/1758",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -676,7 +676,7 @@
       "surname": "SANZ JUARROS",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "18 Sep 1754",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -712,7 +712,7 @@
       "sex": "M",
       "birth": {
         "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "date": "04 Jun 1799"
       },
       "death": {},
       "baptism": {},
@@ -746,7 +746,7 @@
       "surname": "PASCUAL GARCÍA",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "17 Dec 1809",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -781,7 +781,7 @@
       "surname": "PINTADO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "30 Dec 1767",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -813,8 +813,7 @@
       "surname": "MOLINOS GAONA",
       "sex": "F",
       "birth": {
-        "place": "Tórtoles, Ávila (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "Tórtoles, Ávila (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -845,7 +844,7 @@
       "surname": "PASCUAL CANO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "about 1770",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -877,8 +876,7 @@
       "surname": "GARCÍA MAMBRILLA",
       "sex": "F",
       "birth": {
-        "place": "La Horra, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "La Horra, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -909,7 +907,7 @@
       "surname": "PEÑA ESTEBAN",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "23 Mar 1828",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -944,7 +942,7 @@
       "surname": "MAYOR BAJO",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "21 Nov 1831",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -982,7 +980,7 @@
         "date": "07 Dec 1796"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "15 Apr 1869",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1017,7 +1015,7 @@
       "sex": "F",
       "birth": {
         "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "date": "27 Nov 1800"
       },
       "death": {},
       "baptism": {},
@@ -1051,7 +1049,7 @@
       "surname": "PEÑA CARRASCO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "04 Jan 1757",
         "place": "Castrojimeno, Segovia (SPAIN)"
       },
       "death": {},
@@ -1084,7 +1082,7 @@
       "sex": "F",
       "birth": {
         "place": "Fuentecén, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "date": "26 Jul 1764"
       },
       "death": {},
       "baptism": {},
@@ -1115,7 +1113,7 @@
       "surname": "ESTEBAN PALOMINO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "03 Apr 1774",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -1147,7 +1145,7 @@
       "surname": "PÉREZ DE LA HORRA",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1768",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "death": {},
@@ -1183,7 +1181,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "31 Dec 1877",
         "place": "Fuentecén, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1224,7 +1222,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026"
+        "date": "13 Sep 1878"
       },
       "baptism": {},
       "burial": {},
@@ -1258,7 +1256,7 @@
       "surname": "MAYOR ARRANZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "23 Mar 1746",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -1290,7 +1288,7 @@
       "surname": "GUIJARRO GONZÁLEZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "25 Mar 1752",
         "place": "Hontangas, Burgos (SPAIN)"
       },
       "death": {},
@@ -1322,8 +1320,7 @@
       "surname": "BAJO CUESTA",
       "sex": "M",
       "birth": {
-        "place": "La Sequera de Haza, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -1354,7 +1351,7 @@
       "surname": "ADRADOS ARRANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "06 Jul 1760",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -1390,7 +1387,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "07 Mar 1933",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1428,7 +1425,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "22 Aug 1880",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1466,7 +1463,7 @@
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "13 Jun 1884",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1504,7 +1501,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "26 Aug 1886",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1540,7 +1537,7 @@
       "surname": "ZUÑIGA IRIBARREN",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "20/07/179",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -1575,7 +1572,7 @@
       "surname": "ZÚÑIGA FERNÁNDEZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "28 Mar 1751",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -1607,7 +1604,7 @@
       "surname": "GARCÍA PECHARROMÁN",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "13 Mar 1799",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -1642,8 +1639,7 @@
       "surname": "IRIBARREN AGUILAR",
       "sex": "F",
       "birth": {
-        "place": "Coruña del Conde, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "Coruña del Conde, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -1674,7 +1670,7 @@
       "surname": "GARCÍA DEL HIERRO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "10 Apr 1751",
         "place": "Aldehorno, Segovia (SPAIN)"
       },
       "death": {},
@@ -1706,8 +1702,7 @@
       "surname": "PECHARROMÁN DE DIEGO",
       "sex": "F",
       "birth": {
-        "place": "Fuentenebro, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "Fuentenebro, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -1738,7 +1733,7 @@
       "surname": "ARROYO RINCÓN",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1820",
         "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
@@ -1773,7 +1768,7 @@
       "surname": "PLAZA MAYOR",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "29 Jun 1821",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -1808,7 +1803,7 @@
       "surname": "ARROYO",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1800",
         "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
@@ -1840,8 +1835,7 @@
       "surname": "RINCÓN",
       "sex": "F",
       "birth": {
-        "place": "La Sequera de Haza, Burgos (SPAIN)",
-        "date": "1 JAN 2026"
+        "place": "La Sequera de Haza, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -1876,7 +1870,7 @@
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {
-        "date": "1 JAN 2026",
+        "date": "22 Jul 1806",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "baptism": {},
@@ -1910,7 +1904,7 @@
       "surname": "MAYOR SANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "06 May 1784",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -1945,7 +1939,7 @@
       "surname": "PLAZA MARTÍNEZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "08 Mar 1750",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -1977,7 +1971,7 @@
       "surname": "MAYOR ARRANZ",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "26 Jun 1749",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -2009,7 +2003,7 @@
       "surname": "MAYOR ARRANZ",
       "sex": "M",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "1756",
         "place": "Moradillo, Burgos (SPAIN)"
       },
       "death": {},
@@ -2041,7 +2035,7 @@
       "surname": "SANZ LÁZARO",
       "sex": "F",
       "birth": {
-        "date": "1 JAN 2026",
+        "date": "18 Jun 1765",
         "place": "Hontangas, Burgos (SPAIN)"
       },
       "death": {},
@@ -2073,7 +2067,7 @@
       "surname": "GONZÁLEZ LÓPEZ",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "02 Jun 1711",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2108,8 +2102,7 @@
       "surname": "SOBRINO HERASO",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2143,7 +2136,7 @@
       "surname": "GONZÁLEZ ARRIAGA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1680",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2178,8 +2171,7 @@
       "surname": "LÓPEZ RUIZ",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2213,7 +2205,7 @@
       "surname": "GONZÁLEZ GIL",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "09 Sep 1646",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2248,8 +2240,7 @@
       "surname": "ARRIAGA",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2280,7 +2271,7 @@
       "surname": "GONZÁLEZ MORENO",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "26 Aug 1621",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2312,8 +2303,7 @@
       "surname": "GIL",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2344,8 +2334,7 @@
       "surname": "LÓPEZ",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2376,8 +2365,7 @@
       "surname": "RUIZ",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2408,7 +2396,7 @@
       "surname": "SOBRINO",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1686",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2440,7 +2428,7 @@
       "surname": "HERASO CASTRO",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1686",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2475,8 +2463,7 @@
       "surname": "ERAXO (HERASO)",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2507,8 +2494,7 @@
       "surname": "CASTRO",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2539,7 +2525,7 @@
       "surname": "IGUERA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1725",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2571,8 +2557,7 @@
       "surname": "ACINAS",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2603,7 +2588,7 @@
       "surname": "BEMAL DEL AMO",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1719",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2638,7 +2623,7 @@
       "surname": "REVILLA COB",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "1730",
         "place": "Nebreda, Burgos (SPAIN)"
       },
       "death": {},
@@ -2673,7 +2658,7 @@
       "surname": "REVILLA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "about 1700",
         "place": "Nebreda, Burgos (SPAIN)"
       },
       "death": {},
@@ -2705,8 +2690,7 @@
       "surname": "COB",
       "sex": "F",
       "birth": {
-        "place": "Nebreda, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Nebreda, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -2737,7 +2721,7 @@
       "surname": "BEMAL JUNCA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "about 1685",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2920,7 +2904,7 @@
       "surname": "SANZ ORTIGÜELA",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "20 Nov 1722",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2952,7 +2936,7 @@
       "surname": "JUARROS VILLALBA",
       "sex": "F",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "10 Sep 1724",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -2987,7 +2971,7 @@
       "surname": "JUARROS VARGAS",
       "sex": "M",
       "birth": {
-        "date": "18 MAR 2026",
+        "date": "08 Sep 1686",
         "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
@@ -3022,8 +3006,7 @@
       "surname": "VILLALBA DE LA VARGA",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -3057,8 +3040,7 @@
       "surname": "JUARROS",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -3089,8 +3071,7 @@
       "surname": "VARGAS",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -3121,8 +3102,7 @@
       "surname": "VILLALBA",
       "sex": "M",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
@@ -3153,8 +3133,7 @@
       "surname": "DE LA VARGA",
       "sex": "F",
       "birth": {
-        "place": "Covarrubias, Burgos (SPAIN)",
-        "date": "18 MAR 2026"
+        "place": "Covarrubias, Burgos (SPAIN)"
       },
       "death": {},
       "baptism": {},
